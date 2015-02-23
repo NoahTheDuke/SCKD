@@ -1,0 +1,49 @@
+\ProvidesPackage{tlhPackage}
+
+% Structure:
+% \tlhw is the Klingon 'W'ord(s) being defined, only as the first items on a line. Never used in-line.
+% \tlhe is a Klingon word or phrase 'E'lsewhere in the text: canon, quote, etc.
+% \tlhd is an individual 'D'efinition, written as: \textit{PoS}. \textbf{1.} Def. \textbf{2}. Def. PoS. \textbf{3}.
+% \tlhc is the \textit{'C'anon:}. \textit{Found: } \tlhc{klingon}{translation}{source}
+% \tlhf is the \textit{'F'ound:} and then a list of the BOOK uses, in chronological order.
+\DeclareDocumentCommand \tlhw { m } {\large \textbf{\{#1\}}\normalsize}
+
+\DeclareDocumentCommand \tlhe { m } {\textbf{\{#1\}}}
+
+\DeclareDocumentCommand \tlhd { m m o o o o }
+{
+  ---\textit{#1} 
+  \begin{inparaenum}[\bfseries 1.]%
+  \IfNoValueTF {#3}{ #2 }{ \item #2 }%
+  \IfNoValueTF {#3}{}{ \item #3 }%
+  \IfNoValueTF {#4}{}{ \item #4 }%
+  \IfNoValueTF {#5}{}{ \item #5 }%
+  \IfNoValueTF {#6}{}{ \item #6 }%
+  \end{inparaenum}
+}
+
+\DeclareDocumentCommand \tlhc { m m m }{\tlhe{#1} #2 \textsc{#3}\\}
+
+\DeclareDocumentCommand \tlhf { m o o o o }
+{
+  \IfNoValueTF {#2}{ \textit{Found: }\textsc{#1}}{ \textit{Found: }\textsc{#1},}%
+  \IfNoValueTF {#2}{}{ \IfNoValueTF {#3}{ \textsc{#2}}{ \textsc{#2},}}%
+  \IfNoValueTF {#3}{}{ \IfNoValueTF {#4}{ \textsc{#3}}{ \textsc{#3},}}%
+  \IfNoValueTF {#4}{}{ \IfNoValueTF {#5}{ \textsc{#4}}{ \textsc{#4},}}%
+  \IfNoValueTF {#5}{}{ \textsc{#5} }\\
+}
+
+\DeclareDocumentCommand \tlhcf { m o o o o }
+{
+  \textit{Cf. }\IfNoValueTF {#2}{ \tlhe{#1}}{ \tlhe{#1},}%
+  \IfNoValueTF {#2}{}{ \IfNoValueTF {#3}{ \tlhe{#2}}{ \tlhe{#2},}}%
+  \IfNoValueTF {#3}{}{ \IfNoValueTF {#4}{ \tlhe{#3}}{ \tlhe{#3},}}%
+  \IfNoValueTF {#4}{}{ \IfNoValueTF {#5}{ \tlhe{#4}}{ \tlhe{#4},}}%
+  \IfNoValueTF {#5}{}{ \tlhe{#5} }\\
+}
+
+\DeclareDocumentCommand \tlhrf { m m m }{ \textit{Reference:} ``#1'' \textsc{#2} #3\\}
+
+\DeclareDocumentCommand \tlhco { m m }{ ``#1'' \textbf{#2} \\}
+
+\DeclareDocumentCommand \tlhpun { m }{ \textit{Pun:} ``#1'' \\}

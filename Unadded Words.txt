@@ -1,0 +1,651 @@
+﻿{banan naH} (n) banana (TalkNowLearn Klingon!, revealed 30 September 2011)
+{barat} (n) India (TalkNowLearn Klingon!, revealed 30 September 2011)
+{beb mutlhwI'} (n) roofer (email to Lieven, 9 january 2012)
+{buq} (n) bag, sack, pouch, pocket When clarity is needed, one could say, for example, yopwaH buq "pants pouch" or wep buq "coat pouch" for "pants pocket" or "coat pocket," but when the context is clear, buq alone would suffice for "pocket." (qepHom 2010, email to Lieven, 15 November 2010)
+{cha'neH} (n) forearm (qep'a' 2011 [report missing source])
+{chIm} (v) be drained [referring to dilithium crystals, addition to known meanings] (Klingon Monopoly, published 1 November 2011)
+{Denmargh} (n) Denmark (TalkNowLearn Klingon!, revealed 30 September 2011)
+{De' jengva' (n) compact disc, CD (TalkNowLearn Klingon!, revealed 30 September 2011)
+{DoS chIl} (v) expression to say "to digress"So "I digress" would be {DoS vIchIl}. (Marc Okrand to Lawrence M. Schoen on 28 July 2008)
+{DoyIchlan (n) Germany (TalkNowLearn Klingon!, revealed 30 September 2011)
+{ghantoH} (n) model, example, pattern Maltz is assuming this refers to something one copies or refers to in making things -- or something along those lines. (email to Agnieszka, 15 january 2012)
+{gharlIq} 'oQqar (n) garlic (TalkNowLearn Klingon!, revealed 30 September 2011)
+{ghay (v) spray, [bombard?] [can take {jorwI'} as its object] (Klingon Monopoly, published 1 November 2011)
+{ghIn (n) monastery This is a pretty general term for a religious community (and the term "religious" could be interpreted in various ways as well) , so it can be modified. A ghIn'a' would be a pretty important monastery, for example. (qepHom 2010, email to Lieven, 15 November 2010)
+{ghIrep naHmey (n) grapes (TalkNowLearn Klingon!, revealed 30 September 2011)
+{HaSta jIH (n) television (TalkNowLearn Klingon!, revealed 30 September 2011)
+{Hun (n) /Khrun/, type of animal I didn't read that section of the opera myself, but I think I heard someone say it was a fast animal. The khrun is described in other resources as a Klingon riding animal. Note: this isn't the way we saw it in the draft of the opera. After being reminded that the name of the animal had been given a tlhIngan Hol rendering in Keith DeCandido's book "A Burning House", Marc Okrand decided to use the already published spelling. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
+{jaQ (v) be deep so "shallow" would be jaQHa', but there may be another word for that he [Maltz] wasn't telling me. (email to Agnieszka, 15 january 2012)
+{jey'naS ghoqwI' (n, slang) double agent [Maltz said the non-slang term 'o'wen could also be used for "double agent," but its meaning is a bit broader -- it's used to refer to someone (or something) of ambiguous status. As Maltz put it, "You're not quite sure if it's this or that. You think it's one thing, and it may be, but it may be another."] (email to Agnieszka, 2 january 2012)
+{jorwI' (n) bomb [extension of "n. explosive" meaning] (Klingon Monopoly, published 1 November 2011)
+{jul (n) sun This is a general term for a planet's sun. It is not the name of a specific sun. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
+{jungwoq (n) China (TalkNowLearn Klingon!, revealed 30 September 2011)
+{le'mIS (n) blockade (Klingon Monopoly, published 1 November 2011)
+{le'yo' (n) pride Just to be clear, this describes an emotion, as opposed to a tribe of lions. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
+{luHwI' tIH (n) tractor beam [an linear graviton beam used by starships and space stations to control the movement of external objects] (qepHom 2010, email to Lieven, 15 November 2010)
+{maDyar (n) Hungary (TalkNowLearn Klingon!, revealed 30 September 2011)
+{majyang (n) tile (email to Lieven, 9 january 2012)
+{majyang mutlhwI' (n) tiler (email to Lieven, 9 january 2012)
+{maSIr (n) Egypt (TalkNowLearn Klingon!, revealed 30 September 2011)
+{menggho' naH (n) mango (TalkNowLearn Klingon!, revealed 30 September 2011)
+{meyIS tIr (n) sweet corn (TalkNowLearn Klingon!, revealed 30 September 2011)
+{mIllogh (n) image, picture any sort of depiction, including drawings, photographs, cartoons, icons on 21st-century computers, and so on. (qepHom 2010, email to Lieven, 15 November 2010)
+{mIllogh qonwI' (n) camera (TalkNowLearn Klingon!, revealed 30 September 2011)
+{mI' nagh (n) playing dice, die (Klingon Monopoly, published 1 November 2011)
+{mutlh (v) construct, assemble, put together (email to Lieven, 9 january 2012)
+{mutlhwI' (v) [untranslated] A mutlhwI' puts things together. So a ngogh mutlhwI' is not (necessarily) someone who makes bricks, but someone who takes bricks that are already made and assembles them into something (such as a building) . (email to Lieven, 9 january 2012)
+{ne'Derlan (n) The Netherlands (TalkNowLearn Klingon!, revealed 30 September 2011)
+{nIm tlhagh (n) butter (TalkNowLearn Klingon!, revealed 30 September 2011)
+{nIpon (n) Japan (TalkNowLearn Klingon!, revealed 30 September 2011)
+{nIyma' (n) "phantom" or "apparition" something that seems to appear, but isn't really there. It's not the same as {qa'} "ghost," which is the spirit of a dead person. (email from Marc Okrand, 23 November 2008)
+{noregh (n) Norway (TalkNowLearn Klingon!, revealed 30 September 2011)
+{nqIq (n) singular one, individual one There were two distinct examples of this word's use seen in the opera. One of them was obviously detailing how a group of warriors was killed one at a time: {ngIq nuv luHoH} "they killed the warriors one by one." The other was a thrice-repeated {ngIq tonSaw lo' 'ej...} "in one single move, he...", making it clear that each of several results was the result of the same action. I surmise that {ngIq} by itself could mean "the one and only". Again, I didn't copy the lyrics, and what I have written here is probably not exactly what was on the pages we inspected. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
+{nu'SIylan (n) New Zealand (TalkNowLearn Klingon!, revealed 30 September 2011)
+{ngay' (n) glory wo' ngay' bochoqmeH bowIvlu'pu'!You have been chosen to preserve the glory of the Empire! (Klingon Monopoly, published 1 November 2011)
+{ngogh (n) block, lump, brick Maltz said he's seen humans eating yuch ngoghmey and found that strange. (qepHom 2010, email to Lieven, 15 November 2010)
+{ngogh mutlhwI' (n) bricklayer (email to Lieven, 9 january 2012)
+{ngogh tun (n) pillow Maltz first said that Klingons don't have pillows and he wondered why anyone would want one. But he's seen them (somewhere) and knows what they are. So when pushed -- "If you have to call it something, what would you call it?" -- he said {ngogh tun}. (qepHom 2010, email to Lieven, 15 November 2010)
+{pan (v) spark, emit sparks As the duel between Kahless and Molor continues, the opera repeats a phrase several times: {pan qeylIS betleH 'ej jach molor 'etlh} "Kahless's batlh'etlh sparks and Molor's sword roars." I might not be remembering the lyrics exactly, so please don't take them as perfect canon. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
+{patat 'oQqarmey (n) potatoes (TalkNowLearn Klingon!, revealed 30 September 2011)
+{per naHmey (n) pears (TalkNowLearn Klingon!, revealed 30 September 2011)
+{pIlam naH (n) plum (TalkNowLearn Klingon!, revealed 30 September 2011)
+{pIQHa' (v) be indirect, be roundabout, be devious So pIQ would be "be direct." (email to Agnieszka, 2 january 2012)
+{pItSa' chab (n) pizza (TalkNowLearn Klingon!, revealed 30 September 2011)
+{portughal (n) Portugal (TalkNowLearn Klingon!, revealed 30 September 2011)
+{pu'jIn (n) map, plan [big piece of paper showing streets etc.] (qep'a' 2007) [construction plan, drawing, blueprint, addition to known meaning as "map") (email from Marc Okrand on 20 november 2009)
+{qarDaSQa' (n) Cardassian Union (Klingon Monopoly, published 1 November 2011)
+{qatlhDa' (n) water pipe The kind that carries water from place to place, not what you use for smoking. (email to Lieven, 9 january 2012)
+{qav'ap (n) value mortgage valuevoHDajbo' qav'ap (Klingon Monopoly, published 1 November 2011)
+{qa' (v) replace Klingon forces replace original Monopoly bills.Quj wa'DIch Monopoly Huch nav qa' tlhIngan QaS. [This verb has only been used in the noun {qa'meH vIttlhegh} so far, derived from quvqa'meH, here it's a verb.] (Klingon Monopoly, published 1 November 2011)
+{qa'naDa' (n) Canada (TalkNowLearn Klingon!, revealed 30 September 2011)
+{qe'rot 'oQqar (n) carrot (TalkNowLearn Klingon!, revealed 30 September 2011)
+{qolqoS (n) core, the (important) core of a group (qep'a' 2007, http://www.kli.org/tlhIngan-Hol/2007/August/msg00021.html)
+{qoSta' (n) strip, tape (not necessarily sticky) (untranslated in TalkNow-CD, suggestion for a translation by SuStel, 2 November 2011)
+{qo'la' 'awje' (n) cola (TalkNowLearn Klingon!, revealed 30 September 2011)
+{Qej (v) [?cherish?] Qo'noS romuluS je boSuqlaH. vabDot tera' Qejbogh DIvI' ram boSuqlaH. Kronos, Romulus and even the puny Federation's precious Earth are all up for grabs. (Klingon Monopoly, published 1 November 2011)
+{QemjIq (n) hole (like a hole in the ground or in a tree) You can fill (teb) a QemjIq, but not a qung. (email to Agnieszka, 2 january 2012)
+{Qep'It (n) any gas produced by a body [HolQeD, v12n4p8]
+{Qeq aim (v) [KGT]
+{Qev stew (v) [KGT]
+{QID (v) wound [This was omitted from the English-Klingon listing of TKD]
+{QIH damage, cause damage (v) [TKW p.131]
+{QIH wrong, treat unjustly (v) [KGT]
+{QIm egg (n) [KGT]
+{QIn (n) spear head, sharpened end of pencil [Likely, this can refer to the sharp end of anything spearlike with poke potential.] [HolQeD v12n2p6]
+{QIn message (n) [KGT]
+{QIn pup (n) plain spearhead with single sharp point [KGT p64]
+{QIn pup plain spearhead (single sharp point) (n) [KGT p.64]
+{QIn spearhead (n) [KGT]
+{QIn vagh (n) spearhead with multiple points [KGT p64]
+{QIn vagh spearhead with multiple points (n) [KGT p.64]
+{QIn 'echletHom (n) postcard (TalkNowLearn Klingon!, revealed 30 September 2011)
+{QIncha' (n) /Krincha/, type of animal The English accompanying the opera said "Krincha, short and fierce". I found references to a "Krencha" in several places, including the KLI's Extended Corpus Project and the Memory Beta wiki. It is described as a large, quick lizard native to Qo'noS, variously said to have either four or six legs. I suspect that the opera's author intended to invoke that animal but misspelled its name. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
+{QIS wavy-bladed knife (n) [KGT]
+{QI'lop (n) a holiday [from PK, this is a guess as to what Michael Dorn was pronouncing]
+{QI'tomer Khitomer (planet) (n) + [TKW p.99]
+{QI'tu' (n) paradise [In Klingon mythology, this was the source of all creation] [from the Addendum of TKD, KCD]
+{QI'yaH (excl) Klingon curse [vulgar Klingon expression, one of the strongest, most foul Klingon expressions, it defies translation] [TKD p58, KCD]
+{Qob danger (n) [TKW p.37]
+{QoghIj brain (organ) (n) [KGT]
+{Qoj make war (v) [KGT]
+{Qom be hazardous, be perilous, be treacherous (v) [KGT]
+{Qong sleep (v) [TKW p.173]
+{QongDaq bed (n) + [TKW p.40]
+{QongDaq bed (n) [KGT]
+{QongDaqDaq (n) in bed [TKW p40]
+{Qop be dead (referring to food) (v) (slang) [KGT]
+{Qop be worn out (v) [KGT]
+{QoQ jan musical instruments (n) [KGT p.74]
+{QoQ music (n) [KGT]
+{Qor fight, battle (very minor fight) (v) [KGT] [Entries differs somewhat in source. The K E version is used here.]
+{Qorgh take care of, care for (v) [TKW p.101]
+{Qorwagh window (n) [KGT]
+{Qot lie, recline (v) [TKW p.40,161]
+{Qotmagh Krotmag (name) [KGT p.17]
+{Qotmagh Sep Krotmag region (n) [KGT p.17]
+{Qovpatlh (excl) epithet [TKD p178]
+{Qoy (v.t.) hear, [listen to] [Used as Sentence As Object, TKW p195] [TKW p31]
+{Qoy hear (v) [TKW p.31,195]
+{Quch be happy, merry (v) + [TKW p.206]
+{Qugh Kruge (name) [KGT p.41]
+{QujwI' lIw (n) game token, lit. player stand-in (Klingon Monopoly, published 1 November 2011)
+{Qulpa' (n) research lab [BoP Poster]
+{Qum (n) communications, communication related technology [BoP Poster]
+{Qun (n) god, supernatural being [NEWS]
+{Qur (n) structure, organization, anatomy It means the way things fit together or the arrangement of the parts of something bigger. (qepHom 2011, email to Lieven of 25 October 2011)
+{Qutlh (v) support [BoP Poster]
+{Qu' duty, quest, mission, task, chore (n) [TKW p.66,74,139,187]
+{Qu'vatlh (excl) Klingon curse [CK: said in moments of extreme anger] [TKD p58]
+{rach (v) invigorate, fortify, strengthen [MSN news group]
+{rachwI' (n) nurse [MSN news group]
+{ragh decay, rust (v) + [TKW p.101]
+{ragh rust, corrode (v) [KGT]
+{rajma' (n) kidney (qep'a' 2011 [report missing source])
+{ram be insignificant (v) [KGT]
+{ram be trivial, trifling, unimportant, insignificant (v) + [TKW p.143]
+{ram night (n) [TKW p.127]
+{raQ manipulate by hand, handle (v) [KGT]
+{raS table (n) [KGT]
+{raSber naHmey (n) raspberries (TalkNowLearn Klingon!, revealed 30 September 2011)
+{raSya' (n) Russia (TalkNowLearn Klingon!, revealed 30 September 2011)
+{rav'eq (n) ceiling [NEWS]
+{raw' (n) an aquatic bird with colorful plumage [HolQeD v10n4p5]
+{ray' tIr (n) rice (TalkNowLearn Klingon!, revealed 30 September 2011)
+{ra'ghomquv High Command (n) [KGT p.38]
+{ra'taj type of beverage, coffee with liquor (n) [KGT] [Entries differs in source. They are combined here.]
+{rech (v) exhale [HolQeD, v12n4p8]
+{reD (n) exterior wall [NEWS]
+{regh bleed (v) + [TKW p.131]
+{regh bleed (v) [KGT]
+{reH always (adv) [TKW p.34,49,77,79,103,123,133,141,159,170,179,200]
+{ren (v) design, map out, plan (qepHom 2011, email to Lieven of 25 October 2011)
+{renwI' (n) architect (qepHom 2011, email to Lieven of 25 October 2011)
+{ret (n) time period ago (past) [HolQeD v8n3p3]
+{ret'aq handle, hilt (of knife, bat'leth) (n) [KGT]
+{rey squeeze and stretch out (windbag instrument) (v) [KGT]
+{rIl (v) play (a wind instrument) [This is a brass technique, not a flute technique. Most typically it is used with gheb as the object.] [HolQeD v10n2p9]
+{rIl (v) use the thumb [Most commonly used in reference to a child using a thumb. See also Sen.] [HolQeD v10n2p7]
+{rIlwI' (n) thumb [Most commonly used in reference to a child's thumb. See also Sen.] [HolQeD v10n2p7]
+{rIt (v) summon (Klingon Monopoly, published 1 November 2011)
+{rItlh naQ pigment stick (n) [KGT]
+{rItlh pigment, paint, dye (n) [KGT]
+{roD customarily, habitually, regularly (adv) [KGT]
+{rogh ferment (v) [KGT]
+{roghmoH cause to ferment (v) [KGT]
+{rol beard (n) [TKW p.85]
+{ron (v) roll (aircraft wings tilt, one up, one down) [It is unknown if this word has meaning outside the context of aircraft attitude.] [HolQeD v11n2p9]
+{ron (v) roll, be rolling [of playing dice, addition to known meaning as aircraft term] (Klingon Monopoly, published 1 November 2011)
+{ronmoH (v) roll, throw [playing dice] (Klingon Monopoly, published 1 November 2011)
+{ropchoH get sick, ill (v) + [TKW p.40]
+{roS (v) use the third toe [HolQeD v10n2p10]
+{roS lick (v) [KGT]
+{roSHa'moH paralyze (v) [KGT]
+{roSwI' (n) third toe [HolQeD v10n2p7]
+{ruDelya' rop'a' (n) Rudellian plague (Klingon Monopoly, published 1 November 2011)
+{run be short (in stature) (v) [KGT]
+{runpI' teapot (n) [KGT]
+{ruq (v) belch [Gas produced is calledSIp orQep'It.] [HolQeD, v12n4p8]
+{ruQ'e'vet Ruk'evet (city in the Gevchok region) (n) [KGT p.17, 30]
+{ruQ'e'vet Ruk'evet (name) [KGT p.17]
+{rura' pente' (proper n) Rura Penthe [from the Addendum of TKD, TKW p190]
+{rura' pente' Rura Penthe (n) [TKW p.190]
+{rut occasionally (adv) [KGT]
+{rut sometimes, occasionally (adv) + [TKW p.184]
+{rutlh (n) wheel [NEWS]
+{ru'Ha' be permanent (v) [KGT]
+{Sach expand (v) [TKW p.11]
+{SaD thousand (num) [TKW p.127]
+{SaH care (about) , be concerned (about) (v) [TKW p.199]
+{Sam locate, seek and find (v) [TKW p.181,186,200]
+{Saqjan (n) landing gear [BoP Poster]
+{Sargh type of animal, sark (n) [KGT] [Entries differs in source. They are combined here.]
+{SaS be shallow, be superficial, be uncritical (v) (slang) [KGT]
+{SaS be unfortunate, be not good (v) (slang) [KGT]
+{Saw' have a depth of (v) [KGT]
+{Say'qu'moH (v) sterilize [HolQeD v1n3p9]
+{Sa'Hut (n) ass, rear end, buttocks [This word was revealed during a session of singing and dancing the Hokey Pokey] [qep'a' HutDIch]
+{Sa'Qej Sep Sakrej region (n) [KGT p.17, 24]
+{Sech torch (n) [KGT]
+{SeDveq barbed spearhead (n) [KGT]
+{Segh (n) race (type, sort, class) [tlhIngan Segh] [TKW p13]
+{Segh race (type, sort, class) (n) [TKW p.13]
+{Sen (v) use the thumb [Most commonly used in reference to an adult using a thumb. See alsorIl.] [HolQeD v10n2p7]
+{SenwI' (n) thumb [Most commonly used in reference to an adult thumb. See alsorIl.] [HolQeD v10n2p7]
+{SenwI' rIlwI' je (n) everybody (idiomatic phrase) [HolQeD v10n2p8]
+{Seng trouble (n) [TKW p.56]
+{Sep region, country (n) [KGT p.16]
+{Separ type of gemstone (n) [KGT]
+{SeQ be formal, be ritualistic, be ceremonial (v) [KGT]
+{Serrum (n) earwax [HolQeD, v12n4p9]
+{SeymoH excite (v) [TKW p.196]
+{Se'tu' (n) saucepan (TalkNowLearn Klingon!, revealed 30 September 2011)
+{Se'vIr (n) publication "a publication of any kind (print or otherwise) " (email from Marc Okrand to the publisher of paq'batlh, Added: 24 October 2011)
+{Se'vIr malja' (n) publishing house (found at the publisher's page of the paq'batlh, Added: 24 October 2011)
+{SIbI'Ha' (adv) later, eventually (Klingon Monopoly, published 1 November 2011)
+{SIgh influence (v) [TKW p.170]
+{SIj be insightful, be clever (v) (slang) [KGT]
+{SIj slit (v) [TKW p.127]
+{SIjwI' type of knife (used for food preparation) (n) [KGT]
+{SIla' (n) large mirror [larger than neSlo'] [HolQeD v10n4p5]
+{SIq (v) use the index finger [HolQeD v10n2p7]
+{SIqwI' (n) index finger, first finger [HolQeD v10n2p7]
+{SIQ endure, bear (v) [TKW p.43]
+{SIQwI' celebrant, recipient (n) [KGT]
+{SIrgh string, thread, filament (n) [KGT]
+{SIv (v) wonder [This was omitted from the English-Klingon listing of TKD]
+{Soch seventh tone of nonatonic musical scale (n) [KGT]
+{Soj (n) food [carries the idiomatic sense of "matter, concern, affair", as intlhIngan Soj 'oH -- not bIyaj meaning, "It is a Klingon matter -- you'll never understand."] [HolQeD, v12n3p9]
+{Soj qub haute cuisine (n) [KGT]
+{Sop eat (v) [TKW p.73,163,137,185]
+{SopwI'pa' mess hall (n) [KGT]
+{Soq (v.t.) gain [HolQeD v6n2p9 S33]
+{Sor Hap wood (n) [KGT]
+{Sor Hap 'In percussion instrument made of wood (n) [KGT p.75]
+{Sorya' Sauria (n) [KGT]
+{SoSbor (n) motherboard [BoP Poster]
+{SoSbor'a' (n) main core [BoP Poster]
+{Sov know (v) [TKW p.25]
+{So' hide, cloak (v) [TKW p.182]
+{Sub be brave, be heroic, be bold, be valiant, be intrepid (v) (slang) [KGT] [Entries differs in source. The K E entry is used here.]
+{Sub hero (n) [KGT]
+{Subpu' vaS Hall of Heroes (n) [KGT p.79]
+{Sum be near, be nearby (v) [KGT]
+{Supghew type of stringed instrument (n) [KGT]
+{Suq acquire, obtain, get, catch (v) + [TKW p.207]
+{Suqqa' prepare qud in a specific way (v) [KGT]
+{SuS blow (into wind instrument) to produce sound (v) [KGT]
+{SuS wind, breeze (n) [TKW p.107]
+{SuSDeq windbag, bellows (n) [KGT]
+{Sutra'ber naHmey (n) strawberries (TalkNowLearn Klingon!, revealed 30 September 2011)
+{Sutlh negotiate (v) [TKW p.19]
+{Suv fight (v) [TKW p.5,7,19,21,33,63,77,88,111,151,193]
+{Suvchu' fight to the death (v) [KGT p.49]
+{Suverya' (n) Sweden (TalkNowLearn Klingon!, revealed 30 September 2011)
+{SuvwI' warrior (n) [TKW p.iii,5,29,32,33,37,38,46,77,88,136,139,145,147,155,193,195,203]
+{SuwomIy (n) Finland (TalkNowLearn Klingon!, revealed 30 September 2011)
+{Suy' type of animal, shooy (n) [KGT]
+{Su'ghar qutmey (n) sugar (TalkNowLearn Klingon!, revealed 30 September 2011)
+{Su'lop type of food (n) [KGT]
+{tach bar, saloon, cocktail lounge (n) [TKW p.181]
+{tagh (v.t.) begin a process, initiate [proceedings] [Addendum of TKD, TKW p187]
+{tagh begin a process, initiate (v) [TKW p.187]
+{tagha' (adv) finally, at last [NEWS]
+{taH continue, go on, endure, survive (v) + [TKW p.11,147]
+{taH survive (v) [KGT]
+{taHqeq (excl) epithet [this is a classic insult.] [from TKD p178, also in CK]
+{taHta' type of food, racht (n) [KGT]
+{taj knife, dagger (n) [TKW p.169]
+{tajHommey retractable small blades on a d'k tagh knife (n) [KGT p.61]
+{tajtIq type of knife (n) [KGT]
+{tajvaj (n) angle [HolQeD v11n2p9]
+{tal (n) cannon [BoP Poster]
+{talarngan Talarian (person) (n) [KGT]
+{tangqa' (n) animal species with both genders resembling Terran bull [HolQeD]
+{tap mash, squash (v) [KGT]
+{taQ (v) be weird [This was omitted from the English-Klingon listing of TKD]
+{taQ'ev Take'ev (city or region) (n) [KGT p.22]
+{tar poison (n) [TKW p.73]
+{targh targ (n) [TKW p.173]
+{targh tIq (n) heart of targ, a food item [described and shown on KCD]
+{taSman (n) ditch (email to Agnieszka, 15 january 2012)
+{tatlh (v) return (something) [NEWS]
+{tay' be together (v) [TKW p.34,209]
+{ta' accomplish (v) [TKW p.74]
+{ta' accomplishment, deed (n) + [TKW p.15]
+{ta' deed, accomplishment (n) [KGT]
+{ta' Hol standard dialect (n) [KGT]
+{ta' tlhIngan Hol standard dialect (n) [KGT p.15]
+{tebwI' food server in a Dok'e (fast-food restaurant) (n) [KGT]
+{teghbat type of animal, teg'bat (n) [KGT]
+{tel (n) wing [This was omitted from the English-Klingon listing of TKD]
+{tennuS (n) uncle, father's brother [HolQeD v9n3p8]
+{tennuSnal (n) uncle, father's sister's husband [HolQeD v9n3p8]
+{tepqengwI' (n) cargo lift [ (add to current defs) ] [BoP Poster]
+{teS ear (internal, organ of hearing) (n) [KGT]
+{tetlh roll, scroll, list (n) [KGT]
+{tey scrape (v) [KGT]
+{teywI' file (n) [KGT]
+{tey' (n) cousin (mother's sister's child or father's brother's child) , niece or nephew (man's brother's child or woman's sister's child) [HolQeD v9n3p8]
+{tey'be' (n) female cousin (mother's sister's child or father's brother's child) , niece (man's brother's daughter or woman's sister's daughter) [HolQeD v9n3p8]
+{tey'loD (n) male cousin (mother's sister's son or father's brother's son) , nephew (man's brother's son or woman's sister's son) [HolQeD v9n3p8]
+{tIch insult (v) [TKW p.56]
+{tIgh custom (n) [TKW p.iii]
+{tIH shaft (of spear) (n) [KGT]
+{tIjwI'ghom (n) boarding party [TKD p20]
+{tIl (v) salivate [HolQeD, v12n4p8]
+{tIng (n) southwestward, area toward the southwest (approx 220 degrees on terran 360 degree compass counting clockwise with 0 at north) [HolQeD v8n4p6]
+{tIngDagh type of stringed instrument (n) [KGT]
+{tIq (n) heart [TKW p23 - symbolic]
+{tIq heart (n) [TKW p.23,203]
+{tIqnagh lemDu' (n) Tknag hooves, a food item always referred to in plural [KCD]
+{tIqnagh type of animal, tknag (n) [KGT]
+{tIr ngogh (n) bread While thinking about food, he added that the word for "bread" is tIr ngogh. (qepHom 2010, email to Lieven, 15 November 2010)
+{tIv enjoy (v) [TKW p.48,73]
+{tI'ang (proper n) T'Ong (name of a ship) [S15, HolQeD v4n3p5]
+{tI'qa' vIghro' type of animal, tika cat (n) [KGT]
+{tI'vIS T'vis (name) [KGT p.182]
+{toDDuj (n) rescue ship [HolQeD v8n4p11]
+{toDSaH (excl) epithet [you would call someone this if you were not on the best of terms.] [TKD p178, CK]
+{toDuj courage, bravery, mettle (n) + [TKW p.85,104]
+{toj bluff (v) [KGT]
+{toj deceive, trick, bluff (v) + [TKW p.46]
+{tomat naHmey (n) tomatoes (TalkNowLearn Klingon!, revealed 30 September 2011)
+{tonSaw' fighting technique (n) [KGT]
+{toppa' type of animal, topah (n) [KGT]
+{toqvIr lung type of animal, Tokvarian skink (n) [KGT]
+{toQ (n) a bird of prey [HolQeD v10n4p5]
+{tor (v) pitch (aircraft tilts nose up or down) , kneel (action of a person or animal) [HolQeD v11n2p9]
+{tor kneel (v) [TKW p.95]
+{torgh (proper n) Torg [TKD p58]
+{tova'Daq mind sharing (n) [KGT]
+{toy' serve (a master) (v) [TKW p.74]
+{to'baj type of animal, tobbaj (n) [KGT]
+{to'waQ ligament, tendon (n) [KGT]
+{tugh (excl) hurry up! [MSN]
+{tuH be ashamed (v) [TKW p.ix,24,57,136]
+{tuj be hot (v) [TKW p.32,174]
+{tuj muvwI' (n (presumed) ) thermo-suture [veS QonoS, listed in HolQeD, v1n3p9]
+{tul hope (v) [TKW p.74]
+{tuq Degh family crest (n) [KGT]
+{tuq tribe, house, ancestral group (n) + [TKW p.34]
+{tuq tribe, house, ancestral unit (n) [KGT]
+{tuqjIjQa' (n) United Kingdom (TalkNowLearn Klingon!, revealed 30 September 2011)
+{tuqnIgh (n) a member of one's house [HolQeD v9n3p9]
+{tuqvol forehead (n) (regional) [KGT]
+{turIqya' (n) Turkey (TalkNowLearn Klingon!, revealed 30 September 2011)
+{tuS (v) cough [HolQeD, v12n4p8]
+{tuy' (v) spit [If you spit out liquid,bItuy', but if you spit out solids,bItlhIS.] [HolQeD, v12n4p8]
+{tu'HomI'raH something useless, useless thing (n) [KGT] [Entries differs in source. They are combined here.]
+{tu'lum teacup (n) (older or upper-class word) [KGT]
+{tu'lu' there is (something) , one observes (something) (v) + [TKW p.23,29,49,66]
+{tlhach mu'mey (n) jargon [KGT p45]
+{tlhach mu'mey argot, jargon (n) [KGT p.45]
+{tlhach sect, faction (n) [KGT]
+{tlhagh fat, animal fat (n) [KGT]
+{tlham order, structure (societal) (n) (slang) [KGT]
+{tlhap take (v) [TKW p.79]
+{tlhapqa' (v) retrieve (Klingon Monopoly, published 1 November 2011)
+{tlhaS fight, battle (relatively minor fight) (v) [KGT]
+{tlhatlh type of food, gladst (n) [KGT]
+{tlhaw' hit (percussion instrument) with fist (v) [KGT]
+{tlhay sleeve (n) [KGT]
+{tlha'a Klaa (name) [KGT p.52, 198]
+{tlhej (v.t.) accompany [Note: this is labeled as a noun in TKD, but Okrand corrected himself in Okrand's notes.] [HolQeD v2n4p18, TKW p161]
+{tlhej accompany, be with (v) [TKW p.161,173]
+{tlhepQe' (n) saliva [HolQeD, v12n4p8]
+{tlher be lumpy (v) [KGT]
+{tlhevjaQ spear thrown with aid of a special tool (n) [KGT] [Entries differs in source. The E K entry is used here.]
+{tlhIm (n) carpet, rug, also: blanket A tlhIm covers some sort of surface. tlhIm is commonly used for a fabric wall hanging (that might, for example, have a picture of the Klingon emblem on it) . If a piece of cloth is displayed at the end of a pole, it is considered a joqwI' ("flag") . (email to Lieven, 9 january 2012)
+{tlhImqaH type of food, zilm'kach (n) [KGT]
+{tlhIng yoS (proper n) Kling District [BoP Poster]
+{tlhIngan Hubbeq Klingon Defense Force (n) [KGT p.38]
+{tlhIngan Klingon (n) [TKW p.iii,3,5,9,13,40,46,56,59,67,74,77,80,89,91,97,155,165,177]
+{tlhIngan yejquv Klingon High Council (n) [KGT p.36]
+{tlhIngan 'IH qaD (n) Klingon beauty contest [lit. "Contest of handsome Klingon", 'IH does not mean "beauty" here] (Klingon Monopoly, published 1 November 2011)
+{tlhIq stew (n) [KGT]
+{tlhIS spit out (v) [KGT]
+{tlhombuS type of food (n) [KGT]
+{tlhop front, area in front of (n) [KGT]
+{tlhorgh be pungent (referring to food) (v) [KGT]
+{tlhorghHa' be bland (referring to food) (v) [KGT]
+{tlhoS almost, nearly, virtually, not quite (adv) [KGT] [Incorrectly given as verb in E K, »not quite«, adverb everywhere else.]
+{tlhot (v) land on water (like a bird) [if bird lands on land, use Saq, in a tree, use ngun] [HolQeD v10n4p5]
+{tlhov (v) wheeze [This was omitted from the English-Klingon listing of TKD]
+{tlhoy (adv) overly, to an excessive degree, excessively, too much [HolQeD v8n3p2]
+{tlhoy' (n) wall, interior wall, interior face of exterior wall, territorial wall [NEWS]
+{tlhoy' SaS (n) ceiling/floor between stories [NEWS]
+{tlho'ren (n) unit measure approx. one quart/litre [MSN]
+{tlhuD emit (energy, radiation, etc.) (v) [KGT]
+{tlhuH be exhilarated, be stimulated, be invigorated (v) (slang) [KGT]
+{tlhuH breathe (v) [TKW p.193]
+{tlhup (v) whisper [This was omitted from the English-Klingon listing of TKD]
+{tlhuQ tail (n) [KGT]
+{tlhutlh drink (v) [TKW p.35,87]
+{va (excl) general invective [TKD p178]
+{vabDot (adv) even, including, also [the right meaning of this word is not yet clear] (Klingon Monopoly, published 1 November 2011)
+{vaD (v) be flexible [HolQeD v10n2p11]
+{vagh fifth tone of nonatonic musical scale (n) [KGT]
+{vaH sheath, knife case (n) [KGT]
+{vaHbo' lava (n) [KGT]
+{vaj so, then, thus, in that case (adv) [TKW p.151,213]
+{vaj warrior (n) [TKW p.104]
+{valQIS (proper n) Valkris [TKD p58]
+{van (v) end (an event, voyage, battle, play, opera, story, song, etc.) [The subject of this verb is the person causing an event to end. The direct object is the event that is ended.] [HolQeD v12n2p8]
+{van bom anthem, hymn (n) [KGT]
+{van salute (v) [TKW p.83]
+{vang act, take action (v) [TKW p.8,55,139,155]
+{vaQ be effective, be vigorous (v) [KGT]
+{vatlh DIS poH century (n) [KGT]
+{vav father (n) [TKW p.155,170]
+{vay fight, battle (midlevel ferocity) (v) [KGT]
+{vay' (n) somebody, something, anybody, anything [someone] [TKW p88]
+{vay' somebody, something, anybody, anything (n) [TKW p.88,109,129,149,157,167]
+{veb be next (in a series, sequence) (v) [KGT]
+{veD fur (n) [KGT]
+{veDDIr pelt (skin with fur still attached) (n) [KGT]
+{vegh (v) go through (an open door, a tunnel, etc.) [qep'a' loSDIch]
+{vel (v) cover, coat, mask One can say rav vel tlhIm (the carpet covers the floor) . When you lay a carpet, you don't use the verb mutlh. To say "lay a carpet," use rav velmeH tlhIm lo'. (email to Lieven, 9 january 2012)
+{velqa' (n) replica Qang naQ velqa'Chancellor's Cane Replica. (Klingon Monopoly, published 1 November 2011)
+{velwI' (v) coverer, coater, masker The person who lays the carpet. (email to Lieven, 9 january 2012)
+{vem wake up, cease sleeping (v) [TKW p.173]
+{vem'eq (n) a bird that feeds almost exclusively on the serpent worm from which qagh is made [Klingons are not particularly fond of this bird] [HolQeD v10n4p5]
+{veng wa'DIch First City (capital of Kronos) (n) [KGT p.10, 17]
+{veng wa'DIch Sep First City region (n) [KGT p.16]
+{veqlargh (n) devil, demon, Fek'lhr [the beast who guards the dwelling place of the dishonored dead] [from the Addendum of TKD, TKW p197, KCD]
+{veqlargh devil, demon, Fek'lhr (n) [TKW p.197]
+{veragh rivet (n) [KGT]
+{verengan Ferengi (n) [TKW p.189]
+{verengan Ha'DIbaH (n) Ferengi dog - a classic insult [KCD]
+{veS war, warfare (n) [KGT]
+{vey (n) set, pack, package veymey puS neH chenmoHlu'pu'Limited Edition. [lit. "only few sets have been made."] (Klingon Monopoly, published 1 November 2011)
+{vID'Ir (n) baffle [BoP Poster]
+{vIghro' type of animal, v'gro (like a cat) (n) [KGT]
+{vIl (n) something which is "just there" The noun {vIl} is hard to define. Maltz had given a description of something which was immediately recognized as a speed bump by everyone present, but it was apparently intended not as an actual definition but as an example of something which is "just there". There is obviously an etymological relationship with and {vIlle'}, which is currently the best clue we have to its true meaning. ["Groupie" and "entourage" were suggested by those present at the time, but Marc didn't think they fit.] (qep'a' 2009, http://www.kli.org/tlhIngan-Hol/2009/July/msg00191.html)
+{vIlInHoD (n) bird capable of mimicking speech [Some people pluralize these with -pu', but most use -mey.] [HolQeD v10n4p5]
+{vIlle' (n) minion The noun {vIlle'} means something close to "minion". [The word in English is often used to refer to a loyal or even fawning servant of someone who is typically considered powerful. Compare with "henchman", who has the same general job but is usually a mercenary.] (qep'a' 2009, http://www.kli.org/tlhIngan-Hol/2009/July/msg00191.html)
+{vIn (n) cousin, niece or nephew [In the singular, typically tey' or lor is preferred unless the individual is being referred to as a member of a group that likely includes both tey' and/or lor. The plural form (vInpu') is used for a group that includes tey' and/or lor.] [HolQeD v9n3p9]
+{vIno'va' qurgh (n) finova bean (s) [KCD, HolQeD v5n1p20]
+{vInpu' (n) cousins, a group of tey' and lor [In the singular, typically tey' or lor is preferred unless the individual is being referred to as a member of a group that likely includes both tey' and/or lor. The plural form (vInpu') is used for a group that includes tey' and/or lor.] [HolQeD v9n3p9]
+{vIq (n) battle, combat (abstract) [KGT p47]
+{vIq combat (n) [KGT p.47, 50]
+{vIqSIS Vixis (name) [KGT p.197]
+{vIraS (n) France (TalkNowLearn Klingon!, revealed 30 September 2011)
+{vItHay' (n) the truth test [KCD]
+{vIttlhegh proverb (n) [KGT]
+{vIychorgh juice, sap of a plant (n) [KGT]
+{vI' decimal point (n) [KGT]
+{vI' sharpshooting, marksmanship (n) [TKW p.104]
+{von trap, entrap (v) [KGT]
+{vonlu' fail utterly (v) (slang) [KGT]
+{voq trust, have faith in (v) [TKW p.189]
+{voQSIp nitrogen (n) [KGT]
+{voSpegh Sep Vospeg region (n) [KGT p.16]
+{vub hostage (n) [TKW p.97]
+{vulchoH faint (v) + [TKW p.40]
+{vutmeH 'un flat-bottomed pot for food preparation (n) (regional) [KGT]
+{vut'un flat-bottomed pot for food preparation (n) (regional) [KGT]
+{vuv respect (v) [TKW p.107]
+{wab (n) sound, noise [NEWS]
+{wab qoSta' 'aplo' (n) cassette (TalkNowLearn Klingon!, revealed 30 September 2011)
+{wagh be expensive (v) [KGT]
+{waH taste, try out (food) (v) [KGT]
+{waH try out, test, use experimentally (v) [KGT]
+{wamwI' hunter (n) + [TKW p.161]
+{wamwI' hunter (n) [KGT]
+{wan (v) be straight so "crooked" or "bent" would be wanHa'. (email to Agnieszka, 15 january 2012)
+{wanI' phenomenon, event, occurrence, experience (n) [TKW p.73]
+{waqboch (n) a bird with a very long beak [HolQeD v10n4p5]
+{waQ (n) months from now [HolQeD v8n3p3]
+{warjun type of knife (used for food preparation) (n) [KGT]
+{way' parry, deflect a lunge (v) [KGT]
+{wa' one (num) [TKW p.66,81,127,136,177,209]
+{wa'leS tomorrow (n) [TKW p.153]
+{wech serve fermented food at its peak (v) [KGT]
+{wej not yet (adv) [TKW p.88]
+{wej three (num) [TKW p.155]
+{wejwa' (n) taste, flavor (email to Agnieszka, 2 january 2012)
+{wel (v) owe (someone) When someone has earned a reward but the prize is not yet available to be given, the person in charge of presenting it can say {qawel} "I owe you." It is probably also appropriate when you have convinced someone to give you some service or product with the understanding that you will pay for it later. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
+{wen (n) months ago [HolQeD v8n3p3]
+{wep shirt with sleeves (n) (regional) [KGT]
+{weq hit (percussion instrument) with palm (v) [KGT]
+{wey company (military unit) (n) [KGT]
+{While a ghIn could be a single building if that's all the monastery was, it could also refer to a group of buildings and accompanying grounds (gardens or whatever) -- the whole defined area where the members of the religious community live or work or do whatever they do there. It doesn't mean the group of people. (qepHom 2010, email to Lieven, 07 January 2011)
+{wIb be bitter, be tart (v) [KGT]
+{wIlpuq (n) pudding (Marc Okrand to Lawrence M. Schoen at qep'a' 2008)
+{wItlh break (something) off (v) [KGT]
+{wIv choose, select (v) [TKW p.19,151]
+{wob hurl a spear by means of a chetvi (v) [KGT]
+{wogh (v) transgress, do more than is acceptable [bIwogh might be translated "You go too far."] [HolQeD, v12n3p9]
+{woj sterilize (v) [KGT]
+{wom (v) peck [used for both eating and attacking by pecking] [HolQeD v10n4p5]
+{wornagh warnog, Klingon ale (n) [KGT]
+{wovmoHwI' (n) light (lamp) [BoP Poster]
+{wo' empire (n) [TKW p.74,211]
+{wo'rIv (proper n) Worf [HolQeD v4n3p4]
+{wuD (v) snore [Breathe more noisily thanjev.] [HolQeD, v12n4p8]
+{wun (v) be unprotected, be vulnerable (Klingon Monopoly, published 1 November 2011)
+{wup burst into song (v) [KGT]
+{yach strum (a stringed instrument) (v) [KGT]
+{yaD sword (n) (slang) [KGT]
+{yaj understand (v) [TKW p.43]
+{yan sword (n) [KGT]
+{yan wield or use or manipulate a sword (v) [KGT] [Entries differs in source. They are combined here.]
+{yanwI' swordfighter (n) [KGT p.61]
+{yap be enough, sufficient (v) [TKW p.21]
+{yaS cha'DIch (n) second officer [KGT p53]
+{yaS cha'DIch second officer (on a ship) (n) [KGT p.53]
+{yaS wa'DIch (n) first officer [KGT p53]
+{yaS wa'DIch first officer (on a ship) (n) [KGT p.53]
+{yatqap (n) a gray (sometimes white) bird that can travel particularly long distances without pausing [HolQeD v10n4p5]
+{yatlh be pregnant (v) [KGT]
+{yay victory, triumph (n) [TKW p.125,135,179,211]
+{yeb wrist (also slang term of deprecation) (n) [KGT]
+{yejHaD institute, institution (n) [KGT]
+{yej'an society (e.g., scholarly society) (n) [KGT]
+{yem (v.i.) sin [KCD]
+{yeq (v) cooperate [This was missing from Klingon-English listing in TKD, which listed instead jIj, while jIj is missing from the English-Klingon side of TKD] [TKD]
+{yer (n) domain, holdings, territory [NEWS]
+{yergho (n) wall of a city (from yer+gho) [NEWS]
+{yIH tribble (n) [TKW p.184]
+{yIn life (n) [TKW p.43,53,95]
+{yIn live (v) [TKW p.125,141]
+{yInSIp oxygen (n) [KGT]
+{yIntagh (excl) epithet [TKD p178]
+{yIQ (v) be wet [This was missing from the English-Klingon side of TKD]
+{yIr (v) gather This was used in a command for a warrior to gather his armor and weapons before a battle. Before seeing this word, I might have used {boS} "collect" to refer to packing for a trip. Now, {yIr} seems a better choice. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
+{yIrIDngan Yiridian (person) (n) [KGT]
+{yIrIDngan Yridian (n) + [TKW p.189]
+{yISra'el (n) Israel (TalkNowLearn Klingon!, revealed 30 September 2011)
+{yIv annoy, bother, irk, irritate (v) (slang) [KGT]
+{yIvbeH sleeveless shirt (n) (regional) [KGT]
+{yoD'egh shield oneself (v) [KGT p.67]
+{yoH be brave (v) [TKW p.212]
+{yoHwI' brave one (n) + [TKW p.123]
+{yoHwI' brave one (n) [KGT]
+{yor (n) top (exterior) [HolQeD v8n3p2]
+{yoS area, district (within a country) (n) [KGT p.16]
+{yo'SeH yaHnIv (n) Operations Command [Apparently this is a proper noun.] [HolQeD v8n4p11]
+{yu first (and last) tone of nonatonic musical scale (n) [KGT]
+{yub husk, rind, peel, shell (of fruit, nut) (n) [KGT]
+{yuQjIjDIvI' (n) United Federation of Planets [in the Klingon-English listing of TKD, this is yuQjIjQa'] [TKD]
+{yuQjIjQa' (n) United Federation of Planets [in the English-Klingon listing of TKD, this is yuQjIjDIvI'] [TKD]
+{yur (n) distant cousin, niece or nephew (second cousin, grand-nephew, etc.) [The singular form is never used in place of tey' or lor, but the plural may be used for a group including tey' and/or lor, so long as there is at least one more distance cousin, niece or nephew in the group.] [HolQeD v9n3p8]
+{yuvtlhe' (n) lid, cover, cap [HolQeD v8n3p2]
+{yu'egh (n) wave [This was omitted from the English-Klingon listing of TKD]
+{'ab (v.t.) have a length/height of (object is length) [HolQeD v6n2p9 S32, MSN]
+{'ach but, nevertheless, even so, however (conj) [TKW p.59,186]
+{'aD have a length of, measure (v) [KGT]
+{'agh show, demonstrate, display (v) [KGT]
+{'alngegh ax with spike at end (n) [KGT]
+{'amerI'qa' SepjIjQa' (n) United States of America (TalkNowLearn Klingon!, revealed 30 September 2011)
+{'ampaS academy (n) [KGT]
+{'anyan 'oQqar (n) onion (TalkNowLearn Klingon!, revealed 30 September 2011)
+{'ang show, reveal (v) [TKW p.59,61,203]
+{'aplo' (n) container, box (untranslated in TalkNow-CD, suggestion for a translation by SuStel, 2 November 2011)
+{'aqleH type of weapon (half ax, half bat'leth) (n) [KGT]
+{'aqnaw type of knife (general purpose) (n) [KGT]
+{'aqroS (n) maximum / bottom surface of a table, ceiling [BoP Poster, HolQeD v8n3p2]
+{'aqtu' (proper n) Aktuh - proper name from Klingon opera [TKW p187]
+{'aqtu' Aktuh (name) + [TKW p.187]
+{'aqtu' Aktuh (name) [KGT p.49]
+{'aQlo' forehead (n) (regional) [KGT]
+{'arlogh (ques) how many times? [NEWS]
+{'aSralya' (n) Australia (TalkNowLearn Klingon!, revealed 30 September 2011)
+{'atrom A'trom (name) [KGT p.197]
+{'atlhqam type of fungus (n) [KGT]
+{'avwI' guard (n) [TKW p.200]
+{'awje' type of beverage (root beer) (n) [KGT]
+{'ay' part, component, piece (n) [KGT]
+{'eb chance, opening (n) [KGT]
+{'eb opportunity (n) [TKW p.49,51]
+{'echlet (n) board game boardQuj 'echlet. (Klingon Monopoly, published 1 November 2011)
+{'echletHom (n) card [Can be used for playing cards and for a postcard] (Klingon Monopoly, published 1 November 2011)
+{'eDjen (n) an arrogant or haughty person [HolQeD, v12n3p9]
+{'eDSeHcha (n, plural) Take-Off/Landing Thrusters [BoP Poster]
+{'egh third tone of nonatonic musical scale (n) [KGT]
+{'ej and (joining sentences) (conj) [TKW p.5,8,13,101,197,211]
+{'el enter, go in (v) [TKW p.181]
+{'elaDya' (n) Greece (TalkNowLearn Klingon!, revealed 30 September 2011)
+{'elI'jaH (n) unexpected / uninvited guest (qep'a' 2007 [report missing source])
+{'elpI' serving platter (n) [KGT]
+{'em (v) vomit [HolQeD, v12n4p8]
+{'em behind, area behind (n) [KGT]
+{'entepray' (proper n) Enterprise (name of ship) [S15 HolQeD v4n3p5]
+{'ep consume soup (v) [KGT]
+{'epIl naHmey (n) apples (TalkNowLearn Klingon!, revealed 30 September 2011)
+{'eq be early (v) [KGT]
+{'eQway (n) belly button (qep'a' 2011 [report missing source])
+{'er'In (n) end (of stick, rope, etc.) , other end frommegh'an [This can refer to either end of the rope, stick or whatever, but once you arbitrarily choose an end to call'er'In, the OTHER end is calledmegh'an. Before you make this initial reference, either end can be called either'er'In ormegh'an.] [HolQeD v12n2p6]
+{'eS be low (v) [KGT]
+{'eSpanya' (n) Spain (TalkNowLearn Klingon!, revealed 30 September 2011)
+{'etlh blade (n) [KGT]
+{'etlh sword, blade (n) + [TKW p.101,177]
+{'ev (n) northwestward, area to the northwest (320 degrees on terran 360 degree compass counted clockwise with 0 at north) [HolQeD v8n4p6]
+{'ey be good, be delicious, be tasty, be harmonious (v) [KGT]
+{'e' that (previous topic) (pro) [TKW p.13,19,37,73,74,87,125,163,195]
+{'e'mam (n) aunt, father's sister [HolQeD v9n3p8]
+{'e'mamnal (n) aunt, father's brother's wife [HolQeD v9n3p8]
+{'e'nal (n) someone who married into the family [No specific family relationship is given.] [HolQeD v9n3p9]
+{'Ib tub (n) [KGT]
+{'Igh be cursed, be jinxed (v) (slang) [KGT]
+{'IghvaH type of animal, igvah (n) [KGT]
+{'Im render, boil fat (v) [KGT]
+{'In percussion instrument (drum, bell) (n) [KGT]
+{'Iq (v) be too much, be too many [HolQeD v8n3p3]
+{'IqnaH (n) mucus [HolQeD, v12n4p8]
+{'IqnaH QaD (n) dry mucus, booger [charghwI' is interpreting this first definition (provided by Okrand) in creating the second one (created by charghwI') because he can't figure out any other meaning.] [HolQeD, v12n4p8]
+{'IQ be sad (v) [TKW p.8]
+{'IrneH (n) uncle, mother's brother [HolQeD v9n3p8]
+{'IrneHnal (n) uncle, mother's sister's husband [HolQeD v9n3p8]
+{'Italya' (n) Italy (TalkNowLearn Klingon!, revealed 30 September 2011)
+{'IvtIH (n) hip (qep'a' 2011 [report missing source])
+{'Iw blood (n) [TKW p.17,31,32,34,174,203]
+{'Iw 'Ip ghomey (proper n) blood oath circles - the name of a well known sculpture by mIStaq [KCD]
+{'Iwghargh type of animal, bloodworm (n) [KGT] [Entries differs in source. They are combined here.]
+{'I' armpit (n) [KGT]
+{'I'SeghIm (n) curmudgeon (email to Lieven 27 march 2012)
+{'o (excl) Oh! {'o} appears before a name used as direct address. As we saw it used, it acted a little like a vocative prefix: {'o qeylIS, qeylIS, qeylIS...} It seems to be an honorific exclamation, or maybe it's just used for direct address in general and doesn't actually have the implication of deference or reverence that I inferred. If it hadn't been consistently present when the opera "speaks to" Kahless, and consistently absent when it "speaks to" Molor, I might have ignored it as an unimportant background sound. English has almost exactly the same sound with pretty much the same meaning: "O Mouse, do you know the way out of this pool? I am very tired of swimming about here, O Mouse!" (from Alice's Adventures in Wonderland) (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
+{'obe' order, group officially recognized by government (n) [KGT]
+{'obmaQ ax (n) [KGT]
+{'och (n) conduit [ (add to previous defs) ] [BoP Poster]
+{'och mutlhwI' (n) plumber (email to Lieven, 9 january 2012)
+{'oDwI' arbitrator (n) [KGT]
+{'oH it (pro) [TKW p.47,121]
+{'ol verify (v) [TKW p.186]
+{'om resist, fend off (v) [KGT]
+{'op some, an unknown or unspecified quantity (n) [KGT]
+{'oQqar root, tuber (n) [KGT]
+{'or (v) pilot, operate (an aircraft) [HolQeD v11n2p8]
+{'orghen (n) Organia [in TKD English-Klingon side, it lists 'orghenya'.] [TKD]
+{'orghen rojmab (n) Organian Peace Treaty [in TKD English-Klingon side, it lists 'orghenya' rojmab] [TKD]
+{'orghenya' (n) Organia [in TKD Klingon-English side, it lists 'orghen.] [TKD]
+{'orghenya' rojmab (n) Organian Peace Treaty [in TKD Klingon-English side, it lists 'orghen rojmab] [TKD]
+{'orghenya'ngan (n) Organian [in TKD Klingon-English side, it lists 'orghenngan] [TKD]
+{'orghengan (n) Organian [in TKD English-Klingon side, it lists 'orghenya'ngan] [TKD]
+{'orwI' (n) pilot, one who operates (an aircraft) [HolQeD v11n2p8]
+{'oS represent (v) [TKW p.85]
+{'oy' ache, hurt, be sore (v) [TKW p.46,175]
+{'oy' ache, pain, sore (n) [TKW p.43]
+{'oy'naQ painstick (n) [TKW p.205]
+{'o'lav type of drum (n) [KGT]
+{'o'megh (n) end (of a song) [HolQeD v12n2p9]
+{'o'wen (n) double agent Maltz said the non-slang term 'o'wen could also be used for "double agent," but its meaning is a bit broader -- it's used to refer to someone (or something) of ambiguous status. As Maltz put it, "You're not quite sure if it's this or that. You think it's one thing, and it may be, but it may be another." (email to Agnieszka, 2 january 2012)
+{'uch} hold (v) + [TKW p.120,177]
+{'uch} hold, grasp (v) [KGT]
+{'uD Haqtaj} (n) laser scalpel [veS QonoS, listed in HolQeD, v1n3p9]
+{'uD} laser (n) [KGT]
+{'uD'a'} (n) laser [veS QonoS, listed in HolQeD, v1n3p9]
+{'uj} uj (unit of linear measure, about 35 centimeters) (n) [KGT]
+{'ul} electricity (n) [KGT]
+{'ul pat mutlhwI'} (n) electrician (email to Lieven, 9 january 2012)
+{'ul 'aplo'mey} (n) batteries (TalkNowLearn Klingon!, revealed 30 September 2011)
+{'un naQ} stirring «stick», mixing stick (n) [KGT]
+{'un} pot (for food preparation, general term) (n) [KGT]
+{'un quD} artificially produced qud (n) [KGT]
+{'up} be unsavory, be disgusting, be repugnant, be loathsome, be icky (v) [KGT]
+{'uQ'a'} banquet, feast (n) [KGT]
+{'ur} (v) treason, commit treason [This is missing from the Klingon-English side of TKD.] [Addendum of TKD]
+{'urwI'} (n) traitor [This is missing from the Klingon-English side of TKD] [Addendum of TKD]
+{'uSgheb} (n) a noisy bird known to make a ruckus at dawn, likened to a rooster [much fiercer than a rooster] [HolQeD v10n4p5]
+{'uSu'} sauce for gladst (n) [KGT]
+{'ut} be essential, necessary (v) [TKW p.45]
