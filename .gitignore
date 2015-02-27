@@ -5,6 +5,7 @@
 *.lot
 *.fls
 *.out
+*.tex~
 *.toc
 
 ## Intermediate documents:
