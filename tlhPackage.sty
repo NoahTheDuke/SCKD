@@ -1,13 +1,14 @@
 \ProvidesPackage{tlhPackage}
 
-% \tlhw is the Klingon 'W'ord(s) being defined, only as the first items on a line.
-% Never used in-line.
-\DeclareDocumentCommand \tlhw { m } {\large \textbf{\{#1\}}\normalsize}
-
 % \tlhe is a word or phrase used 'E'lsewhere in a definition.
 % Only used in-line.
 % usage: \tlhe{word}
 \DeclareDocumentCommand \tlhe { m } {\textbf{\{#1\}}}
+%\newcommand{\tlhe}[1]{\StrSubstitute{#1}{'}{asdf}}
+
+% \tlhw is the Klingon 'W'ord(s) being defined, only as the first items on a line.
+% Never used in-line.
+\DeclareDocumentCommand \tlhw { m } {\large \tlhe{#1}\normalsize}
 
 \DeclareDocumentCommand \tlhtr { m m }{\tlhe{#1} \textit{#2}}
 
@@ -16,7 +17,7 @@
 % usage: \tlhd{Part of Speech}{First definition}[Second definition]
 \DeclareDocumentCommand \tlhd { m m o o o o }
 {
-  --\textit{#1.}
+  \textit{#1.}
   \begin{inparaenum}[\bfseries 1.]%
   \IfNoValueTF {#3}{ #2 }{ \item #2 }%
   \IfNoValueTF {#3}{}{ \item #3 }%
@@ -30,7 +31,7 @@
 % F'rex: \tlhdd{Adjective}, \tlhdd{noun}, \tlhd{verb}
 \DeclareDocumentCommand \tlhdd { m m o o o o }
 {
-  --\textit{#1.}
+  \textit{#1.}
   \begin{inparaenum}[\bfseries 1.]%
   \IfNoValueTF {#3}{ #2 }{ \item #2 }%
   \IfNoValueTF {#3}{}{ \item #3 }%
@@ -80,14 +81,13 @@
   \IfNoValueTF {#9}{}{ \tlhe{#9} }\\
 }
 
-% \tlhrf 'R'e'F'erences prose in a canon book related to the defined word.
+% \tlhrf 'R'e'F'erences prose in a canon source related to the defined word.
 % Never used in-line.
-\DeclareDocumentCommand \tlhrf { m m m o }{ \IfNoValueTF{#4}{}{\textbf{#4}.} ``#1'' \textsc{#2} #3\\}
+\DeclareDocumentCommand \tlhrf { m m o o }{ \IfNoValueTF{#4}{}{\textbf{#4}.} ``#1'' \textsc{#2} \IfNoValueTF{#3}{}{#3}\\}
 
-% \tlhco provides 'CO'mmentary from a non-book source related to the defined word.
-% Can be canon or non-canon. lol figure it out.
+% \tlhco provides 'CO'mmentary from a non-canon source related to the defined word.
 % Never used in-line.
-\DeclareDocumentCommand \tlhco { m m }{ ``#1'' \textbf{#2} \\}
+\DeclareDocumentCommand \tlhco { m m o }{ ``#1'' \textbf{#2} \IfNoValueTF{#3}{}{#3}\\}
 
 % \tlhpun makes obvious the 'PUN' in the defined word.
 % Never used in-line.
