@@ -12,32 +12,21 @@
 
 \DeclareDocumentCommand \tlhtr { m m }{\tlhe{#1} \textit{#2}}
 
-% \tlhd is a list of 1 to 5 'D'efinitions of a word under a specific Part of Speech.
+% \tlhd is a list of 1 to 9 'D'efinitions of a word under a specific Part of Speech.
 % Never used in-line.
 % usage: \tlhd{Part of Speech}{First definition}[Second definition]
-\DeclareDocumentCommand \tlhd { m m o o o o }
+\DeclareDocumentCommand \tlhd { m m o o o o o o o }
 {
-  \textit{#1.}
+  \textit{#1.}~
   \begin{inparaenum}[\bfseries 1.]%
-  \IfNoValueTF {#3}{ #2 }{ \item #2 }%
-  \IfNoValueTF {#3}{}{ \item #3 }%
-  \IfNoValueTF {#4}{}{ \item #4 }%
-  \IfNoValueTF {#5}{}{ \item #5 }%
-  \IfNoValueTF {#6}{}{ \item #6 }%
-  \end{inparaenum}\\
-}
-
-% \tlhdd is used when writing the not-last definition.
-% F'rex: \tlhdd{Adjective}, \tlhdd{noun}, \tlhd{verb}
-\DeclareDocumentCommand \tlhdd { m m o o o o }
-{
-  \textit{#1.}
-  \begin{inparaenum}[\bfseries 1.]%
-  \IfNoValueTF {#3}{ #2 }{ \item #2 }%
-  \IfNoValueTF {#3}{}{ \item #3 }%
-  \IfNoValueTF {#4}{}{ \item #4 }%
-  \IfNoValueTF {#5}{}{ \item #5 }%
-  \IfNoValueTF {#6}{}{ \item #6 }%
+  \IfNoValueTF {#3}{ #2 }{ \item~#2 }%
+  \IfNoValueTF {#3}{}{ \item~#3 }%
+  \IfNoValueTF {#4}{}{ \item~#4 }%
+  \IfNoValueTF {#5}{}{ \item~#5 }%
+  \IfNoValueTF {#6}{}{ \item~#6 }%
+  \IfNoValueTF {#7}{}{ \item~#7 }%
+  \IfNoValueTF {#8}{}{ \item~#8 }%
+  \IfNoValueTF {#9}{}{ \item~#9 }%
   \end{inparaenum}
 }
 
@@ -46,15 +35,16 @@
 % \tlhca is a single use of the word in a 'CA'non sentence or phrase.
 % Only used in-line.
 % usage: \tlhc{Phrase}{Translation}{Source}
-\newcommand{\tlhc}{\textit{Canon: }}
-\DeclareDocumentCommand \tlhca { m m m }{\tlhe{#1} #2 \textsc{#3}\\}
+\newcommand{\tlhc}{\textit{Canon:~}}
+\DeclareDocumentCommand \tlhca { m m m }{ \textsc{#3:} \tlhe{#1} #2 }
 
 % \tlhf is a list of 1 to 9 canon books where the defined word can be 'F'ound.
 % List the books in chronological order. Never used in-line.
 % \tlhf{Initial source}[Additional source][Additional source]
 \DeclareDocumentCommand \tlhf { m o o o o o o o o }
 {
-  \IfNoValueTF {#2}{ \textit{Found: }\textsc{#1}}{ \textit{Found: }\textsc{#1},}%
+  \IfNoValueTF {#2}{ \textit{Found:~}\small\textsc{#1}\normalsize}{ \textit{Found:~}\small\textsc{#1},\normalsize}%
+  \small%
   \IfNoValueTF {#2}{}{ \IfNoValueTF {#3}{ \textsc{#2}}{ \textsc{#2},}}%
   \IfNoValueTF {#3}{}{ \IfNoValueTF {#4}{ \textsc{#3}}{ \textsc{#3},}}%
   \IfNoValueTF {#4}{}{ \IfNoValueTF {#5}{ \textsc{#4}}{ \textsc{#4},}}%
@@ -62,7 +52,7 @@
   \IfNoValueTF {#6}{}{ \IfNoValueTF {#7}{ \textsc{#6}}{ \textsc{#6},}}%
   \IfNoValueTF {#7}{}{ \IfNoValueTF {#8}{ \textsc{#7}}{ \textsc{#7},}}%
   \IfNoValueTF {#8}{}{ \IfNoValueTF {#9}{ \textsc{#8}}{ \textsc{#8},}}%
-  \IfNoValueTF {#9}{}{ \textsc{#9} }\\
+  \IfNoValueTF {#9}{}{ \textsc{#9} }\normalsize\par
 }
 
 % \tlhcf is a list of 1 to 9 'C'on'F'erable (comparable) Klingon words.
@@ -70,7 +60,7 @@
 % \tlhcf{Word}[word][word]
 \DeclareDocumentCommand \tlhcf { m o o o o o o o o }
 {
-  \textit{Cf. }\IfNoValueTF {#2}{ \tlhe{#1}}{ \tlhe{#1},}%
+  \textit{Cf.~}\IfNoValueTF {#2}{ \tlhe{#1}}{ \tlhe{#1},}%
   \IfNoValueTF {#2}{}{ \IfNoValueTF {#3}{ \tlhe{#2}}{ \tlhe{#2},}}%
   \IfNoValueTF {#3}{}{ \IfNoValueTF {#4}{ \tlhe{#3}}{ \tlhe{#3},}}%
   \IfNoValueTF {#4}{}{ \IfNoValueTF {#5}{ \tlhe{#4}}{ \tlhe{#4},}}%
@@ -78,17 +68,16 @@
   \IfNoValueTF {#6}{}{ \IfNoValueTF {#7}{ \tlhe{#6}}{ \tlhe{#6},}}%
   \IfNoValueTF {#7}{}{ \IfNoValueTF {#8}{ \tlhe{#7}}{ \tlhe{#7},}}%
   \IfNoValueTF {#8}{}{ \IfNoValueTF {#9}{ \tlhe{#8}}{ \tlhe{#8},}}%
-  \IfNoValueTF {#9}{}{ \tlhe{#9} }\\
+  \IfNoValueTF {#9}{}{ \tlhe{#9} }
 }
 
 % \tlhrf 'R'e'F'erences prose in a canon source related to the defined word.
 % Never used in-line.
-\DeclareDocumentCommand \tlhrf { m m o o }{ \IfNoValueTF{#4}{}{\textbf{#4}.} ``#1'' \textsc{#2} \IfNoValueTF{#3}{}{#3}\\}
+\DeclareDocumentCommand \tlhrf { m m o o }{ \IfNoValueTF{#4}{}{\textbf{#4}.} \IfNoValueTF{#3}{\textsc{#2}:}{\textsc{#2}~#3:}~``#1''}
 
 % \tlhco provides 'CO'mmentary from a non-canon source related to the defined word.
-% Never used in-line.
-\DeclareDocumentCommand \tlhco { m m o }{ ``#1'' \textbf{#2} \IfNoValueTF{#3}{}{#3}\\}
+\DeclareDocumentCommand \tlhco { m m o }{ \IfNoValueTF{#3}{\textbf{#2}:}{\textbf{#2}~#3:}~``#1''}
 
 % \tlhpun makes obvious the 'PUN' in the defined word.
 % Never used in-line.
-\DeclareDocumentCommand \tlhpun { m }{ \textit{Pun:} ``#1'' \\}
+\DeclareDocumentCommand \tlhpun { m }{ \textit{Pun:} ``#1''}
