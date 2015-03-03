@@ -43,16 +43,17 @@
 % \tlhf{Initial source}[Additional source][Additional source]
 \DeclareDocumentCommand \tlhf { m o o o o o o o o }
 {
-  \IfNoValueTF {#2}{ \textit{Found:~}\small\textsc{#1}\normalsize}{ \textit{Found:~}\small\textsc{#1},\normalsize}%
+    \IfNoValueTF {#2}{ \textit{Found:~}\small\textsc{#1}\normalsize}{ \textit{Found:~}\small\textsc{#1},\normalsize}%
+    %\IfNoValueTF {#2}{ \textit{Found:~}\small\textsc{\nohyphens{#1}}\normalsize}{ \textit{Found:~}\small\textsc{\nohyphens{#1}},\normalsize}%
   \small%
-  \IfNoValueTF {#2}{}{ \IfNoValueTF {#3}{ \textsc{#2}}{ \textsc{#2},}}%
-  \IfNoValueTF {#3}{}{ \IfNoValueTF {#4}{ \textsc{#3}}{ \textsc{#3},}}%
-  \IfNoValueTF {#4}{}{ \IfNoValueTF {#5}{ \textsc{#4}}{ \textsc{#4},}}%
-  \IfNoValueTF {#5}{}{ \IfNoValueTF {#6}{ \textsc{#5}}{ \textsc{#5},}}%
-  \IfNoValueTF {#6}{}{ \IfNoValueTF {#7}{ \textsc{#6}}{ \textsc{#6},}}%
-  \IfNoValueTF {#7}{}{ \IfNoValueTF {#8}{ \textsc{#7}}{ \textsc{#7},}}%
-  \IfNoValueTF {#8}{}{ \IfNoValueTF {#9}{ \textsc{#8}}{ \textsc{#8},}}%
-  \IfNoValueTF {#9}{}{ \textsc{#9} }\normalsize\par
+    \IfNoValueTF {#2}{}{ \IfNoValueTF {#3}{ \textsc{#2}}{ \textsc{#2},}}%
+    \IfNoValueTF {#3}{}{ \IfNoValueTF {#4}{ \textsc{#3}}{ \textsc{#3},}}%
+    \IfNoValueTF {#4}{}{ \IfNoValueTF {#5}{ \textsc{#4}}{ \textsc{#4},}}%
+    \IfNoValueTF {#5}{}{ \IfNoValueTF {#6}{ \textsc{#5}}{ \textsc{#5},}}%
+    \IfNoValueTF {#6}{}{ \IfNoValueTF {#7}{ \textsc{#6}}{ \textsc{#6},}}%
+    \IfNoValueTF {#7}{}{ \IfNoValueTF {#8}{ \textsc{#7}}{ \textsc{#7},}}%
+    \IfNoValueTF {#8}{}{ \IfNoValueTF {#9}{ \textsc{#8}}{ \textsc{#8},}}%
+    \IfNoValueTF {#9}{}{ \textsc{#9} }\normalsize\par
 }
 
 % \tlhcf is a list of 1 to 9 'C'on'F'erable (comparable) Klingon words.
@@ -60,15 +61,15 @@
 % \tlhcf{Word}[word][word]
 \DeclareDocumentCommand \tlhcf { m o o o o o o o o }
 {
-  \textit{Cf.~}\IfNoValueTF {#2}{ \tlhe{#1}}{ \tlhe{#1},}%
-  \IfNoValueTF {#2}{}{ \IfNoValueTF {#3}{ \tlhe{#2}}{ \tlhe{#2},}}%
-  \IfNoValueTF {#3}{}{ \IfNoValueTF {#4}{ \tlhe{#3}}{ \tlhe{#3},}}%
-  \IfNoValueTF {#4}{}{ \IfNoValueTF {#5}{ \tlhe{#4}}{ \tlhe{#4},}}%
-  \IfNoValueTF {#5}{}{ \IfNoValueTF {#6}{ \tlhe{#5}}{ \tlhe{#5},}}%
-  \IfNoValueTF {#6}{}{ \IfNoValueTF {#7}{ \tlhe{#6}}{ \tlhe{#6},}}%
-  \IfNoValueTF {#7}{}{ \IfNoValueTF {#8}{ \tlhe{#7}}{ \tlhe{#7},}}%
-  \IfNoValueTF {#8}{}{ \IfNoValueTF {#9}{ \tlhe{#8}}{ \tlhe{#8},}}%
-  \IfNoValueTF {#9}{}{ \tlhe{#9} }
+    \textit{Cf.~}\IfNoValueTF {#2}{ \tlhe{#1}}{ \tlhe{#1},}%
+    \IfNoValueTF {#2}{}{ \IfNoValueTF {#3}{ \tlhe{#2}}{ \tlhe{#2},}}%
+    \IfNoValueTF {#3}{}{ \IfNoValueTF {#4}{ \tlhe{#3}}{ \tlhe{#3},}}%
+    \IfNoValueTF {#4}{}{ \IfNoValueTF {#5}{ \tlhe{#4}}{ \tlhe{#4},}}%
+    \IfNoValueTF {#5}{}{ \IfNoValueTF {#6}{ \tlhe{#5}}{ \tlhe{#5},}}%
+    \IfNoValueTF {#6}{}{ \IfNoValueTF {#7}{ \tlhe{#6}}{ \tlhe{#6},}}%
+    \IfNoValueTF {#7}{}{ \IfNoValueTF {#8}{ \tlhe{#7}}{ \tlhe{#7},}}%
+    \IfNoValueTF {#8}{}{ \IfNoValueTF {#9}{ \tlhe{#8}}{ \tlhe{#8},}}%
+    \IfNoValueTF {#9}{}{ \tlhe{#9} }
 }
 
 % \tlhrf 'R'e'F'erences prose in a canon source related to the defined word.
