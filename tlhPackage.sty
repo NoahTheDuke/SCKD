@@ -30,14 +30,6 @@
   \end{inparaenum}
 }
 
-% \tlhc is the initial \textit{'C'anon: }.
-% Never used in-line.
-% \tlhca is a single use of the word in a 'CA'non sentence or phrase.
-% Only used in-line.
-% usage: \tlhc{Phrase}{Translation}{Source}
-\newcommand{\tlhc}{\textit{Canon:~}}
-\DeclareDocumentCommand \tlhca { m m m }{ \textsc{#3:} \tlhe{#1} #2 }
-
 % \tlhf is a list of 1 to 9 canon books where the defined word can be 'F'ound.
 % List the books in chronological order. Never used in-line.
 % \tlhf{Initial source}[Additional source][Additional source]
@@ -72,12 +64,20 @@
     \IfNoValueTF {#9}{}{ \tlhe{#9} }
 }
 
+% \tlhc is the initial \textit{'C'anon: }.
+% Never used in-line.
+% \tlhca is a single use of the word in a 'CA'non sentence or phrase.
+% Only used in-line.
+\newcommand{\tlhc}{\textit{Canon:~}}
+%\DeclareDocumentCommand \tlhca { m m m }{ \textsc{#3:} \tlhe{#1} #2 }
+\DeclareDocumentCommand \tlhca { m m o }{ \IfNoValueTF {#3}{ \tlhe{#1} #2 }{ \textsc{#3:} \tlhe{#1} #2 }}
+
 % \tlhrf 'R'e'F'erences prose in a canon source related to the defined word.
 % Never used in-line.
-\DeclareDocumentCommand \tlhrf { m m o o }{ \IfNoValueTF{#4}{}{\textbf{#4}.} \IfNoValueTF{#3}{\textsc{#2}:}{\textsc{#2}~#3:}~``#1''}
+\DeclareDocumentCommand \tlhrf { m m o o }{\IfNoValueTF {#4}{}{\textbf{#4}.} \IfNoValueTF {#3}{\textsc{#2}:}{\textsc{#2}~#3:}~``#1''}
 
 % \tlhco provides 'CO'mmentary from a non-canon source related to the defined word.
-\DeclareDocumentCommand \tlhco { m m o }{ \IfNoValueTF{#3}{\textbf{#2}:}{\textbf{#2}~#3:}~``#1''}
+\DeclareDocumentCommand \tlhco { m m o o }{\IfNoValueTF {#4}{}{\textbf{#4}.} \IfNoValueTF {#3}{\textbf{#2}:}{\textbf{#2}~#3:}~``#1''}
 
 % \tlhpun makes obvious the 'PUN' in the defined word.
 % Never used in-line.

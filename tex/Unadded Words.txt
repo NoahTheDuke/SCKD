@@ -1,134 +1,7 @@
-﻿\tlhw{banan naH
-\tlhd{n}{banana (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{barat
-\tlhd{n}{India (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{beb mutlhwI'
-\tlhd{n}{roofer (email to Lieven, 9 january 2012)
-\tlhw{buq
-\tlhd{n}{bag, sack, pouch, pocket When clarity is needed, one could say, for example, yopwaH buq "pants pouch" or wep buq "coat pouch" for "pants pocket" or "coat pocket," but when the context is clear, buq alone would suffice for "pocket." (qepHom 2010, email to Lieven, 15 November 2010)
-\tlhw{cha'neH
-\tlhd{n}{forearm (qep'a' 2011 [report missing source])
-\tlhw{chIm
-\tlhd{v}{be drained [referring to dilithium crystals, addition to known meanings] (Klingon Monopoly, published 1 November 2011)
-\tlhw{Denmargh
-\tlhd{n}{Denmark (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{De' jengva'
-\tlhd{n}{compact disc, CD (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{DoS chIl
-\tlhd{v}{expression to say "to digress"So "I digress" would be \tlhw{DoS vIchIl}. (Marc Okrand to Lawrence M. Schoen on 28 July 2008)
-\tlhw{DoyIchlan
-\tlhd{n}{Germany (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{ghantoH
-\tlhd{n}{model, example, pattern Maltz is assuming this refers to something one copies or refers to in making things -- or something along those lines. (email to Agnieszka, 15 january 2012)
-\tlhw{gharlIq} 'oQqar
-\tlhd{n}{garlic (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{ghay
-\tlhd{v}{spray, [bombard?] [can take \tlhw{jorwI'} as its object] (Klingon Monopoly, published 1 November 2011)
-\tlhw{ghIn
-\tlhd{n}{monastery This is a pretty general term for a religious community (and the term "religious" could be interpreted in various ways as well) , so it can be modified. A ghIn'a' would be a pretty important monastery, for example. (qepHom 2010, email to Lieven, 15 November 2010)
-\tlhw{ghIrep naHmey
-\tlhd{n}{grapes (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{HaSta jIH
-\tlhd{n}{television (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{Hun
-\tlhd{n}{/Khrun/, type of animal I didn't read that section of the opera myself, but I think I heard someone say it was a fast animal. The khrun is described in other resources as a Klingon riding animal. Note: this isn't the way we saw it in the draft of the opera. After being reminded that the name of the animal had been given a tlhIngan Hol rendering in Keith DeCandido's book "A Burning House", Marc Okrand decided to use the already published spelling. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
-\tlhw{jaQ
-\tlhd{v}{be deep so "shallow" would be jaQHa', but there may be another word for that he [Maltz] wasn't telling me. (email to Agnieszka, 15 january 2012)
-\tlhw{jey'naS ghoqwI' (n, slang) double agent [Maltz said the non-slang term 'o'wen could also be used for "double agent," but its meaning is a bit broader -- it's used to refer to someone (or something) of ambiguous status. As Maltz put it, "You're not quite sure if it's this or that. You think it's one thing, and it may be, but it may be another."] (email to Agnieszka, 2 january 2012)
-\tlhw{jorwI'
-\tlhd{n}{bomb [extension of "n. explosive" meaning] (Klingon Monopoly, published 1 November 2011)
-\tlhw{jul
-\tlhd{n}{sun This is a general term for a planet's sun. It is not the name of a specific sun. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
-\tlhw{jungwoq
-\tlhd{n}{China (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{le'mIS
-\tlhd{n}{blockade (Klingon Monopoly, published 1 November 2011)
-\tlhw{le'yo'
-\tlhd{n}{pride Just to be clear, this describes an emotion, as opposed to a tribe of lions. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
-\tlhw{luHwI' tIH
-\tlhd{n}{tractor beam [an linear graviton beam used by starships and space stations to control the movement of external objects] (qepHom 2010, email to Lieven, 15 November 2010)
-\tlhw{maDyar
-\tlhd{n}{Hungary (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{majyang
-\tlhd{n}{tile (email to Lieven, 9 january 2012)
-\tlhw{majyang mutlhwI'
-\tlhd{n}{tiler (email to Lieven, 9 january 2012)
-\tlhw{maSIr
-\tlhd{n}{Egypt (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{menggho' naH
-\tlhd{n}{mango (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{meyIS tIr
-\tlhd{n}{sweet corn (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{mIllogh
-\tlhd{n}{image, picture any sort of depiction, including drawings, photographs, cartoons, icons on 21st-century computers, and so on. (qepHom 2010, email to Lieven, 15 November 2010)
-\tlhw{mIllogh qonwI'
-\tlhd{n}{camera (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{mI' nagh
-\tlhd{n}{playing dice, die (Klingon Monopoly, published 1 November 2011)
-\tlhw{mutlh
-\tlhd{v}{construct, assemble, put together (email to Lieven, 9 january 2012)
-\tlhw{mutlhwI'
-\tlhd{v}{[untranslated] A mutlhwI' puts things together. So a ngogh mutlhwI' is not (necessarily) someone who makes bricks, but someone who takes bricks that are already made and assembles them into something (such as a building) . (email to Lieven, 9 january 2012)
-\tlhw{ne'Derlan
-\tlhd{n}{The Netherlands (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{nIm tlhagh
-\tlhd{n}{butter (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{nIpon
-\tlhd{n}{Japan (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{nIyma'
-\tlhd{n}{"phantom" or "apparition" something that seems to appear, but isn't really there. It's not the same as \tlhw{qa'} "ghost," which is the spirit of a dead person. (email from Marc Okrand, 23 November 2008)
-\tlhw{noregh
-\tlhd{n}{Norway (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{nqIq
-\tlhd{n}{singular one, individual one There were two distinct examples of this word's use seen in the opera. One of them was obviously detailing how a group of warriors was killed one at a time: \tlhw{ngIq nuv luHoH} "they killed the warriors one by one." The other was a thrice-repeated \tlhw{ngIq tonSaw lo' 'ej...} "in one single move, he...", making it clear that each of several results was the result of the same action. I surmise that \tlhw{ngIq} by itself could mean "the one and only". Again, I didn't copy the lyrics, and what I have written here is probably not exactly what was on the pages we inspected. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
-\tlhw{nu'SIylan
-\tlhd{n}{New Zealand (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{ngay'
-\tlhd{n}{glory wo' ngay' bochoqmeH bowIvlu'pu'!You have been chosen to preserve the glory of the Empire! (Klingon Monopoly, published 1 November 2011)
-\tlhw{ngogh
-\tlhd{n}{block, lump, brick Maltz said he's seen humans eating yuch ngoghmey and found that strange. (qepHom 2010, email to Lieven, 15 November 2010)
-\tlhw{ngogh mutlhwI'
-\tlhd{n}{bricklayer (email to Lieven, 9 january 2012)
-\tlhw{ngogh tun
-\tlhd{n}{pillow Maltz first said that Klingons don't have pillows and he wondered why anyone would want one. But he's seen them (somewhere) and knows what they are. So when pushed -- "If you have to call it something, what would you call it?" -- he said \tlhw{ngogh tun}. (qepHom 2010, email to Lieven, 15 November 2010)
-\tlhw{pan
-\tlhd{v}{spark, emit sparks As the duel between Kahless and Molor continues, the opera repeats a phrase several times: \tlhw{pan qeylIS betleH 'ej jach molor 'etlh} "Kahless's batlh'etlh sparks and Molor's sword roars." I might not be remembering the lyrics exactly, so please don't take them as perfect canon. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
-\tlhw{patat 'oQqarmey
-\tlhd{n}{potatoes (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{per naHmey
-\tlhd{n}{pears (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{pIlam naH
-\tlhd{n}{plum (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{pIQHa'
-\tlhd{v}{be indirect, be roundabout, be devious So pIQ would be "be direct." (email to Agnieszka, 2 january 2012)
-\tlhw{pItSa' chab
-\tlhd{n}{pizza (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{portughal
-\tlhd{n}{Portugal (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{pu'jIn
-\tlhd{n}{map, plan [big piece of paper showing streets etc.] (qep'a' 2007) [construction plan, drawing, blueprint, addition to known meaning as "map") (email from Marc Okrand on 20 november 2009)
-\tlhw{qarDaSQa'
-\tlhd{n}{Cardassian Union (Klingon Monopoly, published 1 November 2011)
-\tlhw{qatlhDa'
-\tlhd{n}{water pipe The kind that carries water from place to place, not what you use for smoking. (email to Lieven, 9 january 2012)
-\tlhw{qav'ap
-\tlhd{n}{value mortgage valuevoHDajbo' qav'ap (Klingon Monopoly, published 1 November 2011)
-\tlhw{qa'
-\tlhd{v}{replace Klingon forces replace original Monopoly bills.Quj wa'DIch Monopoly Huch nav qa' tlhIngan QaS. [This verb has only been used in the noun \tlhw{qa'meH vIttlhegh} so far, derived from quvqa'meH, here it's a verb.] (Klingon Monopoly, published 1 November 2011)
-\tlhw{qa'naDa'
-\tlhd{n}{Canada (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{qe'rot 'oQqar
-\tlhd{n}{carrot (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{qolqoS
-\tlhd{n}{core, the (important) core of a group (qep'a' 2007, http://www.kli.org/tlhIngan-Hol/2007/August/msg00021.html)
-\tlhw{qoSta'
-\tlhd{n}{strip, tape (not necessarily sticky) (untranslated in TalkNow-CD, suggestion for a translation by SuStel, 2 November 2011)
-\tlhw{qo'la' 'awje'
-\tlhd{n}{cola (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{Qej
-\tlhd{v}{[?cherish?] Qo'noS romuluS je boSuqlaH. vabDot tera' Qejbogh DIvI' ram boSuqlaH. Kronos, Romulus and even the puny Federation's precious Earth are all up for grabs. (Klingon Monopoly, published 1 November 2011)
+﻿\tlhw{Qej
+\tlhd{v}{[?cherish?] Qo'noS romuluS je boSuqlaH. vabDot tera' Qejbogh DIvI' ram boSuqlaH. Kronos, Romulus and even the puny Federation's precious Earth are all up for grabs.}{Klingon Monopoly}
 \tlhw{QemjIq
-\tlhd{n}{hole (like a hole in the ground or in a tree) You can fill (teb) a QemjIq, but not a qung. (email to Agnieszka, 2 january 2012)
+\tlhd{n}{hole (like a hole in the ground or in a tree) You can fill (teb) a QemjIq, but not a qung.}{email to Agnieszka, 2 january 2012]
 \tlhw{Qep'It
 \tlhd{n}{any gas produced by a body [HolQeD, v12n4p8]
 \tlhw{Qeq aim
@@ -157,10 +30,6 @@
 \tlhd{n}{spearhead with multiple points [KGT p64]
 \tlhw{QIn vagh spearhead with multiple points
 \tlhd{n}{[KGT p.64]
-\tlhw{QIn 'echletHom
-\tlhd{n}{postcard (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{QIncha'
-\tlhd{n}{/Krincha/, type of animal The English accompanying the opera said "Krincha, short and fierce". I found references to a "Krencha" in several places, including the KLI's Extended Corpus Project and the Memory Beta wiki. It is described as a large, quick lizard native to Qo'noS, variously said to have either four or six legs. I suspect that the opera's author intended to invoke that animal but misspelled its name. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
 \tlhw{QIS wavy-bladed knife
 \tlhd{n}{[KGT]
 \tlhw{QI'lop
@@ -170,7 +39,7 @@
 \tlhw{QI'tu'
 \tlhd{n}{paradise [In Klingon mythology, this was the source of all creation] [from the Addendum of TKD, KCD]
 \tlhw{QI'yaH
-\tlhd{excl}{Klingon curse [vulgar Klingon expression, one of the strongest, most foul Klingon expressions, it defies translation] [TKD p58, KCD]
+\tlhd{excl.}{Klingon curse [vulgar Klingon expression, one of the strongest, most foul Klingon expressions, it defies translation] [TKD p58, KCD]
 \tlhw{Qob danger
 \tlhd{n}{[TKW p.37]
 \tlhw{QoghIj brain (organ)
@@ -217,7 +86,7 @@
 \tlhw{Qugh Kruge
 \tlhd{name}{[KGT p.41]
 \tlhw{QujwI' lIw
-\tlhd{n}{game token, lit. player stand-in (Klingon Monopoly, published 1 November 2011)
+\tlhd{n}{game token, lit. player stand-in.}{Klingon Monopoly}
 \tlhw{Qulpa'
 \tlhd{n}{research lab [BoP Poster]
 \tlhw{Qum
@@ -225,13 +94,13 @@
 \tlhw{Qun
 \tlhd{n}{god, supernatural being [NEWS]
 \tlhw{Qur
-\tlhd{n}{structure, organization, anatomy It means the way things fit together or the arrangement of the parts of something bigger. (qepHom 2011, email to Lieven of 25 October 2011)
+\tlhd{n}{structure, organization, anatomy It means the way things fit together or the arrangement of the parts of something bigger.}{qepHom 2011, email to Lieven of 25 October 2011]
 \tlhw{Qutlh
 \tlhd{v}{support [BoP Poster]
 \tlhw{Qu' duty, quest, mission, task, chore
 \tlhd{n}{[TKW p.66,74,139,187]
 \tlhw{Qu'vatlh
-\tlhd{excl}{Klingon curse [CK: said in moments of extreme anger] [TKD p58]
+\tlhd{excl.}{Klingon curse [CK: said in moments of extreme anger] [TKD p58]
 \tlhw{rach
 \tlhd{v}{invigorate, fortify, strengthen [MSN news group]
 \tlhw{rachwI'
@@ -252,16 +121,10 @@
 \tlhd{v}{[KGT]
 \tlhw{raS table
 \tlhd{n}{[KGT]
-\tlhw{raSber naHmey
-\tlhd{n}{raspberries (TalkNowLearn Klingon!, revealed 30 September 2011)
-\tlhw{raSya'
-\tlhd{n}{Russia (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{rav'eq
 \tlhd{n}{ceiling [NEWS]
 \tlhw{raw'
 \tlhd{n}{an aquatic bird with colorful plumage [HolQeD v10n4p5]
-\tlhw{ray' tIr
-\tlhd{n}{rice (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{ra'ghomquv High Command
 \tlhd{n}{[KGT p.38]
 \tlhw{ra'taj type of beverage, coffee with liquor
@@ -277,9 +140,9 @@
 \tlhw{reH always
 \tlhd{adv}{[TKW p.34,49,77,79,103,123,133,141,159,170,179,200]
 \tlhw{ren
-\tlhd{v}{design, map out, plan (qepHom 2011, email to Lieven of 25 October 2011)
+\tlhd{v}{design, map out, plan.}{qepHom 2011, email to Lieven of 25 October 2011]
 \tlhw{renwI'
-\tlhd{n}{architect (qepHom 2011, email to Lieven of 25 October 2011)
+\tlhd{n}{architect.}{qepHom 2011, email to Lieven of 25 October 2011]
 \tlhw{ret
 \tlhd{n}{time period ago (past) [HolQeD v8n3p3]
 \tlhw{ret'aq handle, hilt (of knife, bat'leth)
@@ -293,7 +156,7 @@
 \tlhw{rIlwI'
 \tlhd{n}{thumb [Most commonly used in reference to a child's thumb. See also Sen.] [HolQeD v10n2p7]
 \tlhw{rIt
-\tlhd{v}{summon (Klingon Monopoly, published 1 November 2011)
+\tlhd{v}{summon.}{Klingon Monopoly}
 \tlhw{rItlh naQ pigment stick
 \tlhd{n}{[KGT]
 \tlhw{rItlh pigment, paint, dye
@@ -309,9 +172,9 @@
 \tlhw{ron
 \tlhd{v}{roll (aircraft wings tilt, one up, one down}{[It is unknown if this word has meaning outside the context of aircraft attitude.] [HolQeD v11n2p9]
 \tlhw{ron
-\tlhd{v}{roll, be rolling [of playing dice, addition to known meaning as aircraft term] (Klingon Monopoly, published 1 November 2011)
+\tlhd{v}{roll, be rolling [of playing dice, addition to known meaning as aircraft term].}{Klingon Monopoly}
 \tlhw{ronmoH
-\tlhd{v}{roll, throw [playing dice] (Klingon Monopoly, published 1 November 2011)
+\tlhd{v}{roll, throw [playing dice].}{Klingon Monopoly}
 \tlhw{ropchoH get sick, ill
 \tlhd{v}{+ [TKW p.40]
 \tlhw{roS
@@ -323,7 +186,7 @@
 \tlhw{roSwI'
 \tlhd{n}{third toe [HolQeD v10n2p7]
 \tlhw{ruDelya' rop'a'
-\tlhd{n}{Rudellian plague (Klingon Monopoly, published 1 November 2011)
+\tlhd{n}{Rudellian plague.}{Klingon Monopoly}
 \tlhw{run be short (in stature)
 \tlhd{v}{[KGT]
 \tlhw{runpI' teapot
@@ -365,7 +228,7 @@
 \tlhw{Say'qu'moH
 \tlhd{v}{sterilize [HolQeD v1n3p9]
 \tlhw{Sa'Hut
-\tlhd{n}{ass, rear end, buttocks [This word was revealed during a session of singing and dancing the Hokey Pokey] [qep'a' HutDIch]
+\tlhd{n}{ass, rear end, buttocks [This word was revealed during a session of singing and dancing the Hokey Pokey].}{qep'a' HutDIch]
 \tlhw{Sa'Qej Sep Sakrej region
 \tlhd{n}{[KGT p.17, 24]
 \tlhw{Sech torch
@@ -394,14 +257,12 @@
 \tlhd{n}{earwax [HolQeD, v12n4p9]
 \tlhw{SeymoH excite
 \tlhd{v}{[TKW p.196]
-\tlhw{Se'tu'
-\tlhd{n}{saucepan (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{Se'vIr
-\tlhd{n}{publication "a publication of any kind (print or otherwise) " (email from Marc Okrand to the publisher of paq'batlh, Added: 24 October 2011)
+\tlhd{n}{publication "a publication of any kind (print or otherwise) ".}{email from Marc Okrand to the publisher of paq'batlh, Added: 24 October 2011]
 \tlhw{Se'vIr malja'
-\tlhd{n}{publishing house (found at the publisher's page of the paq'batlh, Added: 24 October 2011)
+\tlhd{n}{publishing house [found at the publisher's page of the paq'batlh, Added: 24 October 2011]
 \tlhw{SIbI'Ha'
-\tlhd{adv}{later, eventually (Klingon Monopoly, published 1 November 2011)
+\tlhd{adv}{later, eventually.}{Klingon Monopoly}
 \tlhw{SIgh influence
 \tlhd{v}{[TKW p.170]
 \tlhw{SIj be insightful, be clever
@@ -469,24 +330,16 @@
 \tlhd{n}{[TKW p.107]
 \tlhw{SuSDeq windbag, bellows
 \tlhd{n}{[KGT]
-\tlhw{Sutra'ber naHmey
-\tlhd{n}{strawberries (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{Sutlh negotiate
 \tlhd{v}{[TKW p.19]
 \tlhw{Suv fight
 \tlhd{v}{[TKW p.5,7,19,21,33,63,77,88,111,151,193]
 \tlhw{Suvchu' fight to the death
 \tlhd{v}{[KGT p.49]
-\tlhw{Suverya'
-\tlhd{n}{Sweden (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{SuvwI' warrior
 \tlhd{n}{[TKW p.iii,5,29,32,33,37,38,46,77,88,136,139,145,147,155,193,195,203]
-\tlhw{SuwomIy
-\tlhd{n}{Finland (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{Suy' type of animal, shooy
 \tlhd{n}{[KGT]
-\tlhw{Su'ghar qutmey
-\tlhd{n}{sugar (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{Su'lop type of food
 \tlhd{n}{[KGT]
 \tlhw{tach bar, saloon, cocktail lounge
@@ -531,7 +384,7 @@
 \tlhw{targh tIq
 \tlhd{n}{heart of targ, a food item [described and shown on KCD]
 \tlhw{taSman
-\tlhd{n}{ditch (email to Agnieszka, 15 january 2012)
+\tlhd{n}{ditch.}{email to Agnieszka, 15 january 2012]
 \tlhw{tatlh
 \tlhd{v}{return (something) [NEWS]
 \tlhw{tay' be together
@@ -595,7 +448,7 @@
 \tlhw{tIqnagh type of animal, tknag
 \tlhd{n}{[KGT]
 \tlhw{tIr ngogh
-\tlhd{n}{bread While thinking about food, he added that the word for "bread" is tIr ngogh. (qepHom 2010, email to Lieven, 15 November 2010)
+\tlhd{n}{bread While thinking about food, he added that the word for "bread" is tIr ngogh.}{qepHom 2010, email to Lieven, 15 November 2010]
 \tlhw{tIv enjoy
 \tlhd{v}{[TKW p.48,73]
 \tlhw{tI'ang (proper n}{T'Ong (name of a ship) [S15, HolQeD v4n3p5]
@@ -613,8 +466,6 @@
 \tlhd{v}{[KGT]
 \tlhw{toj deceive, trick, bluff
 \tlhd{v}{+ [TKW p.46]
-\tlhw{tomat naHmey
-\tlhd{n}{tomatoes (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{tonSaw' fighting technique
 \tlhd{n}{[KGT]
 \tlhw{toppa' type of animal, topah
@@ -651,14 +502,10 @@
 \tlhd{n}{+ [TKW p.34]
 \tlhw{tuq tribe, house, ancestral unit
 \tlhd{n}{[KGT]
-\tlhw{tuqjIjQa'
-\tlhd{n}{United Kingdom (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{tuqnIgh
 \tlhd{n}{a member of one's house [HolQeD v9n3p9]
 \tlhw{tuqvol forehead
 \tlhd{n}{(regional) [KGT]
-\tlhw{turIqya'
-\tlhd{n}{Turkey (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{tuS
 \tlhd{v}{cough [HolQeD, v12n4p8]
 \tlhw{tuy'
@@ -682,7 +529,7 @@
 \tlhw{tlhap take
 \tlhd{v}{[TKW p.79]
 \tlhw{tlhapqa'
-\tlhd{v}{retrieve (Klingon Monopoly, published 1 November 2011)
+\tlhd{v}{retrieve.}{Klingon Monopoly}
 \tlhw{tlhaS fight, battle (relatively minor fight)
 \tlhd{v}{[KGT]
 \tlhw{tlhatlh type of food, gladst
@@ -703,7 +550,7 @@
 \tlhw{tlhevjaQ spear thrown with aid of a special tool
 \tlhd{n}{[KGT] [Entries differs in source. The E K entry is used here.]
 \tlhw{tlhIm
-\tlhd{n}{carpet, rug, also: blanket A tlhIm covers some sort of surface. tlhIm is commonly used for a fabric wall hanging (that might, for example, have a picture of the Klingon emblem on it) . If a piece of cloth is displayed at the end of a pole, it is considered a joqwI' ("flag") . (email to Lieven, 9 january 2012)
+\tlhd{n}{carpet, rug, also: blanket A tlhIm covers some sort of surface. tlhIm is commonly used for a fabric wall hanging (that might, for example, have a picture of the Klingon emblem on it) . If a piece of cloth is displayed at the end of a pole, it is considered a joqwI' ("flag") .}{email to Lieven, 9 january 2012]
 \tlhw{tlhImqaH type of food, zilm'kach
 \tlhd{n}{[KGT]
 \tlhw{tlhIng yoS (proper n}{Kling District [BoP Poster]
@@ -714,7 +561,7 @@
 \tlhw{tlhIngan yejquv Klingon High Council
 \tlhd{n}{[KGT p.36]
 \tlhw{tlhIngan 'IH qaD
-\tlhd{n}{Klingon beauty contest [lit. "Contest of handsome Klingon", 'IH does not mean "beauty" here] (Klingon Monopoly, published 1 November 2011)
+\tlhd{n.}{Klingon beauty contest [lit. "Contest of handsome Klingon", 'IH does not mean "beauty" here].}{Klingon Monopoly}
 \tlhw{tlhIq stew
 \tlhd{n}{[KGT]
 \tlhw{tlhIS spit out
@@ -756,7 +603,7 @@
 \tlhw{va
 \tlhd{excl}{general invective [TKD p178]
 \tlhw{vabDot
-\tlhd{adv}{even, including, also [the right meaning of this word is not yet clear] (Klingon Monopoly, published 1 November 2011)
+\tlhd{adv}{even, including, also [the right meaning of this word is not yet clear].}{Klingon Monopoly}
 \tlhw{vaD
 \tlhd{v}{be flexible [HolQeD v10n2p11]
 \tlhw{vagh fifth tone of nonatonic musical scale
@@ -797,13 +644,13 @@
 \tlhw{veDDIr pelt (skin with fur still attached)
 \tlhd{n}{[KGT]
 \tlhw{vegh
-\tlhd{v}{go through (an open door, a tunnel, etc.) [qep'a' loSDIch]
+\tlhd{v}{go through (an open door, a tunnel, etc.).}{qep'a' loSDIch]
 \tlhw{vel
-\tlhd{v}{cover, coat, mask One can say rav vel tlhIm (the carpet covers the floor) . When you lay a carpet, you don't use the verb mutlh. To say "lay a carpet," use rav velmeH tlhIm lo'. (email to Lieven, 9 january 2012)
+\tlhd{v}{cover, coat, mask One can say rav vel tlhIm (the carpet covers the floor) . When you lay a carpet, you don't use the verb mutlh. To say "lay a carpet," use rav velmeH tlhIm lo'.}{email to Lieven, 9 january 2012]
 \tlhw{velqa'
-\tlhd{n}{replica Qang naQ velqa'Chancellor's Cane Replica. (Klingon Monopoly, published 1 November 2011)
+\tlhd{n}{replica Qang naQ velqa'Chancellor's Cane Replica.}{Klingon Monopoly}
 \tlhw{velwI'
-\tlhd{v}{coverer, coater, masker The person who lays the carpet. (email to Lieven, 9 january 2012)
+\tlhd{v}{coverer, coater, masker The person who lays the carpet.}{email to Lieven, 9 january 2012]
 \tlhw{vem wake up, cease sleeping
 \tlhd{v}{[TKW p.173]
 \tlhw{vem'eq
@@ -825,17 +672,17 @@
 \tlhw{veS war, warfare
 \tlhd{n}{[KGT]
 \tlhw{vey
-\tlhd{n}{set, pack, package veymey puS neH chenmoHlu'pu'Limited Edition. [lit. "only few sets have been made."] (Klingon Monopoly, published 1 November 2011)
+\tlhd{n}{set, pack, package veymey puS neH chenmoHlu'pu'Limited Edition. [lit. "only few sets have been made."].}{Klingon Monopoly}
 \tlhw{vID'Ir
 \tlhd{n}{baffle [BoP Poster]
 \tlhw{vIghro' type of animal, v'gro (like a cat)
 \tlhd{n}{[KGT]
 \tlhw{vIl
-\tlhd{n}{something which is "just there" The noun \tlhw{vIl} is hard to define. Maltz had given a description of something which was immediately recognized as a speed bump by everyone present, but it was apparently intended not as an actual definition but as an example of something which is "just there". There is obviously an etymological relationship with and \tlhw{vIlle'}, which is currently the best clue we have to its true meaning. ["Groupie" and "entourage" were suggested by those present at the time, but Marc didn't think they fit.] (qep'a' 2009, http://www.kli.org/tlhIngan-Hol/2009/July/msg00191.html)
+\tlhd{n}{something which is "just there" The noun \tlhw{vIl} is hard to define. Maltz had given a description of something which was immediately recognized as a speed bump by everyone present, but it was apparently intended not as an actual definition but as an example of something which is "just there". There is obviously an etymological relationship with and \tlhw{vIlle'}, which is currently the best clue we have to its true meaning. ["Groupie" and "entourage" were suggested by those present at the time, but Marc didn't think they fit.].}{qep'a' 2009, http://www.kli.org/tlhIngan-Hol/2009/July/msg00191.html]
 \tlhw{vIlInHoD
 \tlhd{n}{bird capable of mimicking speech [Some people pluralize these with -pu', but most use -mey.] [HolQeD v10n4p5]
 \tlhw{vIlle'
-\tlhd{n}{minion The noun \tlhw{vIlle'} means something close to "minion". [The word in English is often used to refer to a loyal or even fawning servant of someone who is typically considered powerful. Compare with "henchman", who has the same general job but is usually a mercenary.] (qep'a' 2009, http://www.kli.org/tlhIngan-Hol/2009/July/msg00191.html)
+\tlhd{n}{minion The noun \tlhw{vIlle'} means something close to "minion". [The word in English is often used to refer to a loyal or even fawning servant of someone who is typically considered powerful. Compare with "henchman", who has the same general job but is usually a mercenary.].}{qep'a' 2009, http://www.kli.org/tlhIngan-Hol/2009/July/msg00191.html]
 \tlhw{vIn
 \tlhd{n}{cousin, niece or nephew [In the singular, typically tey' or lor is preferred unless the individual is being referred to as a member of a group that likely includes both tey' and/or lor. The plural form (vInpu') is used for a group that includes tey' and/or lor.] [HolQeD v9n3p9]
 \tlhw{vIno'va' qurgh
@@ -848,8 +695,6 @@
 \tlhd{n}{[KGT p.47, 50]
 \tlhw{vIqSIS Vixis
 \tlhd{name}{[KGT p.197]
-\tlhw{vIraS
-\tlhd{n}{France (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{vItHay'
 \tlhd{n}{the truth test [KCD]
 \tlhw{vIttlhegh proverb
@@ -882,8 +727,6 @@
 \tlhd{v}{[TKW p.107]
 \tlhw{wab
 \tlhd{n}{sound, noise [NEWS]
-\tlhw{wab qoSta' 'aplo'
-\tlhd{n}{cassette (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{wagh be expensive
 \tlhd{v}{[KGT]
 \tlhw{waH taste, try out (food)
@@ -895,7 +738,7 @@
 \tlhw{wamwI' hunter
 \tlhd{n}{[KGT]
 \tlhw{wan
-\tlhd{v}{be straight so "crooked" or "bent" would be wanHa'. (email to Agnieszka, 15 january 2012)
+\tlhd{v}{be straight so "crooked" or "bent" would be wanHa'.}{email to Agnieszka, 15 january 2012]
 \tlhw{wanI' phenomenon, event, occurrence, experience
 \tlhd{n}{[TKW p.73]
 \tlhw{waqboch
@@ -915,9 +758,7 @@
 \tlhd{adv}{[TKW p.88]
 \tlhw{wej three (num) [TKW p.155]
 \tlhw{wejwa'
-\tlhd{n}{taste, flavor (email to Agnieszka, 2 january 2012)
-\tlhw{wel
-\tlhd{v}{owe (someone) When someone has earned a reward but the prize is not yet available to be given, the person in charge of presenting it can say \tlhw{qawel} "I owe you." It is probably also appropriate when you have convinced someone to give you some service or product with the understanding that you will pay for it later. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
+\tlhd{n}{taste, flavor.}{email to Agnieszka, 2 january 2012]
 \tlhw{wen
 \tlhd{n}{months ago [HolQeD v8n3p3]
 \tlhw{wep shirt with sleeves
@@ -926,7 +767,7 @@
 \tlhd{v}{[KGT]
 \tlhw{wey company (military unit)
 \tlhd{n}{[KGT]
-\tlhw{While a ghIn could be a single building if that's all the monastery was, it could also refer to a group of buildings and accompanying grounds (gardens or whatever) -- the whole defined area where the members of the religious community live or work or do whatever they do there. It doesn't mean the group of people. (qepHom 2010, email to Lieven, 07 January 2011)
+\tlhw{While a ghIn could be a single building if that's all the monastery was, it could also refer to a group of buildings and accompanying grounds (gardens or whatever) -- the whole defined area where the members of the religious community live or work or do whatever they do there. It doesn't mean the group of people.}{qepHom 2010, email to Lieven, 07 January 2011]
 \tlhw{wIb be bitter, be tart
 \tlhd{v}{[KGT]
 \tlhw{wIlpuq
@@ -953,7 +794,7 @@
 \tlhw{wuD
 \tlhd{v}{snore [Breathe more noisily thanjev.] [HolQeD, v12n4p8]
 \tlhw{wun
-\tlhd{v}{be unprotected, be vulnerable (Klingon Monopoly, published 1 November 2011)
+\tlhd{v}{be unprotected, be vulnerable.}{Klingon Monopoly}
 \tlhw{wup burst into song
 \tlhd{v}{[KGT]
 \tlhw{yach strum (a stringed instrument)
@@ -1009,14 +850,10 @@
 \tlhd{excl}{epithet [TKD p178]
 \tlhw{yIQ
 \tlhd{v}{be wet [This was missing from the English-Klingon side of TKD]
-\tlhw{yIr
-\tlhd{v}{gather This was used in a command for a warrior to gather his armor and weapons before a battle. Before seeing this word, I might have used \tlhw{boS} "collect" to refer to packing for a trip. Now, \tlhw{yIr} seems a better choice. (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
 \tlhw{yIrIDngan Yiridian (person)
 \tlhd{n}{[KGT]
 \tlhw{yIrIDngan Yridian
 \tlhd{n}{+ [TKW p.189]
-\tlhw{yISra'el
-\tlhd{n}{Israel (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{yIv annoy, bother, irk, irritate
 \tlhd{v}{(slang) [KGT]
 \tlhw{yIvbeH sleeveless shirt
@@ -1058,16 +895,12 @@
 \tlhd{v}{[KGT]
 \tlhw{'alngegh ax with spike at end
 \tlhd{n}{[KGT]
-\tlhw{'amerI'qa' SepjIjQa'
-\tlhd{n}{United States of America (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{'ampaS academy
 \tlhd{n}{[KGT]
-\tlhw{'anyan 'oQqar
-\tlhd{n}{onion (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{'ang show, reveal
 \tlhd{v}{[TKW p.59,61,203]
 \tlhw{'aplo'
-\tlhd{n}{container, box (untranslated in TalkNow-CD, suggestion for a translation by SuStel, 2 November 2011)
+\tlhd{n}{container, box [untranslated in TalkNow-CD, suggestion for a translation by SuStel, 2 November 2011]
 \tlhw{'aqleH type of weapon (half ax, half bat'leth)
 \tlhd{n}{[KGT]
 \tlhw{'aqnaw type of knife (general purpose)
@@ -1082,8 +915,6 @@
 \tlhw{'aQlo' forehead
 \tlhd{n}{(regional) [KGT]
 \tlhw{'arlogh (ques) how many times? [NEWS]
-\tlhw{'aSralya'
-\tlhd{n}{Australia (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{'atrom A'trom
 \tlhd{name}{[KGT p.197]
 \tlhw{'atlhqam type of fungus
@@ -1099,9 +930,9 @@
 \tlhw{'eb opportunity
 \tlhd{n}{[TKW p.49,51]
 \tlhw{'echlet
-\tlhd{n}{board game boardQuj 'echlet. (Klingon Monopoly, published 1 November 2011)
+\tlhd{n}{board game boardQuj 'echlet.}{Klingon Monopoly}
 \tlhw{'echletHom
-\tlhd{n}{card [Can be used for playing cards and for a postcard] (Klingon Monopoly, published 1 November 2011)
+\tlhd{n}{card [Can be used for playing cards and for a postcard].}{Klingon Monopoly}
 \tlhw{'eDjen
 \tlhd{n}{an arrogant or haughty person [HolQeD, v12n3p9]
 \tlhw{'eDSeHcha (n, plural) Take-Off/Landing Thrusters [BoP Poster]
@@ -1111,8 +942,6 @@
 \tlhd{conj}{[TKW p.5,8,13,101,197,211]
 \tlhw{'el enter, go in
 \tlhd{v}{[TKW p.181]
-\tlhw{'elaDya'
-\tlhd{n}{Greece (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{'elI'jaH
 \tlhd{n}{unexpected / uninvited guest (qep'a' 2007 [report missing source])
 \tlhw{'elpI' serving platter
@@ -1124,8 +953,6 @@
 \tlhw{'entepray' (proper n}{Enterprise (name of ship) [S15 HolQeD v4n3p5]
 \tlhw{'ep consume soup
 \tlhd{v}{[KGT]
-\tlhw{'epIl naHmey
-\tlhd{n}{apples (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{'eq be early
 \tlhd{v}{[KGT]
 \tlhw{'eQway
@@ -1134,8 +961,6 @@
 \tlhd{n}{end (of stick, rope, etc.) , other end frommegh'an [This can refer to either end of the rope, stick or whatever, but once you arbitrarily choose an end to call'er'In, the OTHER end is calledmegh'an. Before you make this initial reference, either end can be called either'er'In ormegh'an.] [HolQeD v12n2p6]
 \tlhw{'eS be low
 \tlhd{v}{[KGT]
-\tlhw{'eSpanya'
-\tlhd{n}{Spain (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{'etlh blade
 \tlhd{n}{[KGT]
 \tlhw{'etlh sword, blade
@@ -1174,8 +999,6 @@
 \tlhd{n}{uncle, mother's brother [HolQeD v9n3p8]
 \tlhw{'IrneHnal
 \tlhd{n}{uncle, mother's sister's husband [HolQeD v9n3p8]
-\tlhw{'Italya'
-\tlhd{n}{Italy (TalkNowLearn Klingon!, revealed 30 September 2011)
 \tlhw{'IvtIH
 \tlhd{n}{hip (qep'a' 2011 [report missing source])
 \tlhw{'Iw blood
@@ -1187,8 +1010,6 @@
 \tlhd{n}{[KGT]
 \tlhw{'I'SeghIm
 \tlhd{n}{curmudgeon (email to Lieven 27 march 2012)
-\tlhw{'o
-\tlhd{excl}{Oh! \tlhw{'o} appears before a name used as direct address. As we saw it used, it acted a little like a vocative prefix: \tlhw{'o qeylIS, qeylIS, qeylIS...} It seems to be an honorific exclamation, or maybe it's just used for direct address in general and doesn't actually have the implication of deference or reverence that I inferred. If it hadn't been consistently present when the opera "speaks to" Kahless, and consistently absent when it "speaks to" Molor, I might have ignored it as an unimportant background sound. English has almost exactly the same sound with pretty much the same meaning: "O Mouse, do you know the way out of this pool? I am very tired of swimming about here, O Mouse!" (from Alice's Adventures in Wonderland) (email from ghunchu'wI' to the KLI's email discussion group on 22 August 2011)
 \tlhw{'obe' order, group officially recognized by government
 \tlhd{n}{[KGT]
 \tlhw{'obmaQ ax
@@ -1196,7 +1017,7 @@
 \tlhw{'och
 \tlhd{n}{conduit [ (add to previous defs) ] [BoP Poster]
 \tlhw{'och mutlhwI'
-\tlhd{n}{plumber (email to Lieven, 9 january 2012)
+\tlhd{n}{plumber.}{email to Lieven, 9 january 2012]
 \tlhw{'oDwI' arbitrator
 \tlhd{n}{[KGT]
 \tlhw{'oH it
@@ -1238,7 +1059,7 @@
 \tlhw{'o'megh
 \tlhd{n}{end (of a song) [HolQeD v12n2p9]
 \tlhw{'o'wen
-\tlhd{n}{double agent Maltz said the non-slang term 'o'wen could also be used for "double agent," but its meaning is a bit broader -- it's used to refer to someone (or something) of ambiguous status. As Maltz put it, "You're not quite sure if it's this or that. You think it's one thing, and it may be, but it may be another." (email to Agnieszka, 2 january 2012)
+\tlhd{n}{double agent Maltz said the non-slang term 'o'wen could also be used for "double agent," but its meaning is a bit broader -- it's used to refer to someone (or something) of ambiguous status. As Maltz put it, "You're not quite sure if it's this or that. You think it's one thing, and it may be, but it may be another.".}{email to Agnieszka, 2 january 2012]
 \tlhw{'uch} hold
 \tlhd{v}{+ [TKW p.120,177]
 \tlhw{'uch} hold, grasp
@@ -1254,9 +1075,7 @@
 \tlhw{'ul} electricity
 \tlhd{n}{[KGT]
 \tlhw{'ul pat mutlhwI'
-\tlhd{n}{electrician (email to Lieven, 9 january 2012)
-\tlhw{'ul 'aplo'mey
-\tlhd{n}{batteries (TalkNowLearn Klingon!, revealed 30 September 2011)
+\tlhd{n}{electrician.}{email to Lieven, 9 january 2012]
 \tlhw{'un naQ} stirring «stick», mixing stick
 \tlhd{n}{[KGT]
 \tlhw{'un} pot (for food preparation, general term)
