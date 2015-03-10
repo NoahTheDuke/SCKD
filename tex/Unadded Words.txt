@@ -1,107 +1,4 @@
-﻿\tlhw{Qej
-\tlhd{v}{[?cherish?] Qo'noS romuluS je boSuqlaH. vabDot tera' Qejbogh DIvI' ram boSuqlaH. Kronos, Romulus and even the puny Federation's precious Earth are all up for grabs.}{Klingon Monopoly}
-\tlhw{QemjIq
-\tlhd{n}{hole (like a hole in the ground or in a tree) You can fill (teb) a QemjIq, but not a qung.}{email to Agnieszka, 2 january 2012]
-\tlhw{Qep'It
-\tlhd{n}{any gas produced by a body [HolQeD, v12n4p8]
-\tlhw{Qeq aim
-\tlhd{v}{[KGT]
-\tlhw{Qev stew
-\tlhd{v}{[KGT]
-\tlhw{QID
-\tlhd{v}{wound [This was omitted from the English-Klingon listing of TKD]
-\tlhw{QIH damage, cause damage
-\tlhd{v}{[TKW p.131]
-\tlhw{QIH wrong, treat unjustly
-\tlhd{v}{[KGT]
-\tlhw{QIm egg
-\tlhd{n}{[KGT]
-\tlhw{QIn
-\tlhd{n}{spear head, sharpened end of pencil [Likely, this can refer to the sharp end of anything spearlike with poke potential.] [HolQeD v12n2p6]
-\tlhw{QIn message
-\tlhd{n}{[KGT]
-\tlhw{QIn pup
-\tlhd{n}{plain spearhead with single sharp point [KGT p64]
-\tlhw{QIn pup plain spearhead (single sharp point)
-\tlhd{n}{[KGT p.64]
-\tlhw{QIn spearhead
-\tlhd{n}{[KGT]
-\tlhw{QIn vagh
-\tlhd{n}{spearhead with multiple points [KGT p64]
-\tlhw{QIn vagh spearhead with multiple points
-\tlhd{n}{[KGT p.64]
-\tlhw{QIS wavy-bladed knife
-\tlhd{n}{[KGT]
-\tlhw{QI'lop
-\tlhd{n}{a holiday [from PK, this is a guess as to what Michael Dorn was pronouncing]
-\tlhw{QI'tomer Khitomer (planet)
-\tlhd{n}{+ [TKW p.99]
-\tlhw{QI'tu'
-\tlhd{n}{paradise [In Klingon mythology, this was the source of all creation] [from the Addendum of TKD, KCD]
-\tlhw{QI'yaH
-\tlhd{excl.}{Klingon curse [vulgar Klingon expression, one of the strongest, most foul Klingon expressions, it defies translation] [TKD p58, KCD]
-\tlhw{Qob danger
-\tlhd{n}{[TKW p.37]
-\tlhw{QoghIj brain (organ)
-\tlhd{n}{[KGT]
-\tlhw{Qoj make war
-\tlhd{v}{[KGT]
-\tlhw{Qom be hazardous, be perilous, be treacherous
-\tlhd{v}{[KGT]
-\tlhw{Qong sleep
-\tlhd{v}{[TKW p.173]
-\tlhw{QongDaq bed
-\tlhd{n}{+ [TKW p.40]
-\tlhw{QongDaq bed
-\tlhd{n}{[KGT]
-\tlhw{QongDaqDaq
-\tlhd{n}{in bed [TKW p40]
-\tlhw{Qop be dead (referring to food)
-\tlhd{v}{(slang) [KGT]
-\tlhw{Qop be worn out
-\tlhd{v}{[KGT]
-\tlhw{QoQ jan musical instruments
-\tlhd{n}{[KGT p.74]
-\tlhw{QoQ music
-\tlhd{n}{[KGT]
-\tlhw{Qor fight, battle (very minor fight)
-\tlhd{v}{[KGT] [Entries differs somewhat in source. The K E version is used here.]
-\tlhw{Qorgh take care of, care for
-\tlhd{v}{[TKW p.101]
-\tlhw{Qorwagh window
-\tlhd{n}{[KGT]
-\tlhw{Qot lie, recline
-\tlhd{v}{[TKW p.40,161]
-\tlhw{Qotmagh Krotmag
-\tlhd{name}{[KGT p.17]
-\tlhw{Qotmagh Sep Krotmag region
-\tlhd{n}{[KGT p.17]
-\tlhw{Qovpatlh
-\tlhd{excl}{epithet [TKD p178]
-\tlhw{Qoy (v.t.) hear, [listen to] [Used as Sentence As Object, TKW p195] [TKW p31]
-\tlhw{Qoy hear
-\tlhd{v}{[TKW p.31,195]
-\tlhw{Quch be happy, merry
-\tlhd{v}{+ [TKW p.206]
-\tlhw{Qugh Kruge
-\tlhd{name}{[KGT p.41]
-\tlhw{QujwI' lIw
-\tlhd{n}{game token, lit. player stand-in.}{Klingon Monopoly}
-\tlhw{Qulpa'
-\tlhd{n}{research lab [BoP Poster]
-\tlhw{Qum
-\tlhd{n}{communications, communication related technology [BoP Poster]
-\tlhw{Qun
-\tlhd{n}{god, supernatural being [NEWS]
-\tlhw{Qur
-\tlhd{n}{structure, organization, anatomy It means the way things fit together or the arrangement of the parts of something bigger.}{qepHom 2011, email to Lieven of 25 October 2011]
-\tlhw{Qutlh
-\tlhd{v}{support [BoP Poster]
-\tlhw{Qu' duty, quest, mission, task, chore
-\tlhd{n}{[TKW p.66,74,139,187]
-\tlhw{Qu'vatlh
-\tlhd{excl.}{Klingon curse [CK: said in moments of extreme anger] [TKD p58]
-\tlhw{rach
+﻿\tlhw{rach
 \tlhd{v}{invigorate, fortify, strengthen [MSN news group]
 \tlhw{rachwI'
 \tlhd{n}{nurse [MSN news group]
@@ -208,6 +105,7 @@
 \tlhd{n}{wheel [NEWS]
 \tlhw{ru'Ha' be permanent
 \tlhd{v}{[KGT]
+
 \tlhw{Sach expand
 \tlhd{v}{[TKW p.11]
 \tlhw{SaD thousand (num) [TKW p.127]
@@ -342,6 +240,7 @@
 \tlhd{n}{[KGT]
 \tlhw{Su'lop type of food
 \tlhd{n}{[KGT]
+
 \tlhw{tach bar, saloon, cocktail lounge
 \tlhd{n}{[TKW p.181]
 \tlhw{tagh (v.t.) begin a process, initiate [proceedings] [Addendum of TKD, TKW p187]
@@ -516,6 +415,7 @@
 \tlhd{n}{(older or upper-class word) [KGT]
 \tlhw{tu'lu' there is (something) , one observes (something)
 \tlhd{v}{+ [TKW p.23,29,49,66]
+
 \tlhw{tlhach mu'mey
 \tlhd{n}{jargon [KGT p45]
 \tlhw{tlhach mu'mey argot, jargon
@@ -600,6 +500,7 @@
 \tlhd{n}{[KGT]
 \tlhw{tlhutlh drink
 \tlhd{v}{[TKW p.35,87]
+
 \tlhw{va
 \tlhd{excl}{general invective [TKD p178]
 \tlhw{vabDot
@@ -725,6 +626,7 @@
 \tlhd{n}{(regional) [KGT]
 \tlhw{vuv respect
 \tlhd{v}{[TKW p.107]
+
 \tlhw{wab
 \tlhd{n}{sound, noise [NEWS]
 \tlhw{wagh be expensive
@@ -797,6 +699,7 @@
 \tlhd{v}{be unprotected, be vulnerable.}{Klingon Monopoly}
 \tlhw{wup burst into song
 \tlhd{v}{[KGT]
+
 \tlhw{yach strum (a stringed instrument)
 \tlhd{v}{[KGT]
 \tlhw{yaD sword
@@ -886,6 +789,7 @@
 \tlhd{n}{lid, cover, cap [HolQeD v8n3p2]
 \tlhw{yu'egh
 \tlhd{n}{wave [This was omitted from the English-Klingon listing of TKD]
+
 \tlhw{'ab (v.t.) have a length/height of (object is length) [HolQeD v6n2p9 S32, MSN]
 \tlhw{'ach but, nevertheless, even so, however
 \tlhd{conj}{[TKW p.59,186]
