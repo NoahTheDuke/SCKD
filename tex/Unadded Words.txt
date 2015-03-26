@@ -1,12 +1,4 @@
-﻿\tlhw{rach
-\tlhd{v}{invigorate, fortify, strengthen [MSN news group]
-\tlhw{rachwI'
-\tlhd{n}{nurse [MSN news group]
-\tlhw{ragh decay, rust
-\tlhd{v}{+ [TKW p.101]
-\tlhw{ragh rust, corrode
-\tlhd{v}{[KGT]
-\tlhw{rajma'
+﻿\tlhw{rajma'
 \tlhd{n}{kidney (qep'a' 2011 [report missing source])
 \tlhw{ram be insignificant
 \tlhd{v}{[KGT]
