@@ -1,10 +1,4 @@
-﻿\tlhw{ram be insignificant
-\tlhd{v}{[KGT]
-\tlhw{ram be trivial, trifling, unimportant, insignificant
-\tlhd{v}{+ [TKW p.143]
-\tlhw{ram night
-\tlhd{n}{[TKW p.127]
-\tlhw{raQ manipulate by hand, handle
+﻿\tlhw{raQ manipulate by hand, handle
 \tlhd{v}{[KGT]
 \tlhw{raS table
 \tlhd{n}{[KGT]
