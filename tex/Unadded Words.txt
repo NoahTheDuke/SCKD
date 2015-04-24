@@ -1,6 +1,4 @@
-﻿\tlhw{raQ manipulate by hand, handle
-\tlhd{v}{[KGT]
-\tlhw{raS table
+﻿\tlhw{raS table
 \tlhd{n}{[KGT]
 \tlhw{rav'eq
 \tlhd{n}{ceiling [NEWS]
