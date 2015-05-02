@@ -1,6 +1,4 @@
-﻿\tlhw{raS table
-\tlhd{n}{[KGT]
-\tlhw{rav'eq
+﻿\tlhw{rav'eq
 \tlhd{n}{ceiling [NEWS]
 \tlhw{raw'
 \tlhd{n}{an aquatic bird with colorful plumage [HolQeD v10n4p5]
