@@ -1,6 +1,4 @@
-﻿ \tlhw{raw'
-\tlhd{n}{an aquatic bird with colorful plumage [HolQeD v10n4p5]
-\tlhw{ra'ghomquv High Command
+﻿\tlhw{ra'ghomquv High Command
 \tlhd{n}{[KGT p.38]
 \tlhw{ra'taj type of beverage, coffee with liquor
 \tlhd{n}{[KGT] [Entries differs in source. They are combined here.]
