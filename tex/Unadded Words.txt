@@ -1,8 +1,4 @@
-﻿\tlhw{ra'ghomquv High Command
-\tlhd{n}{[KGT p.38]
-\tlhw{ra'taj type of beverage, coffee with liquor
-\tlhd{n}{[KGT] [Entries differs in source. They are combined here.]
-\tlhw{rech
+﻿\tlhw{rech
 \tlhd{v}{exhale [HolQeD, v12n4p8]
 \tlhw{reD
 \tlhd{n}{exterior wall [NEWS]
