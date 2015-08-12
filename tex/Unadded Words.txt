@@ -1,6 +1,4 @@
-﻿\tlhw{ren
-\tlhd{v}{design, map out, plan.}{qepHom 2011, email to Lieven of 25 October 2011]
-\tlhw{renwI'
+﻿\tlhw{renwI'
 \tlhd{n}{architect.}{qepHom 2011, email to Lieven of 25 October 2011]
 \tlhw{ret
 \tlhd{n}{time period ago (past) [HolQeD v8n3p3]
